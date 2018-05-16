@@ -1,0 +1,2709 @@
+--2018-04-22 03:08:22--  https://s3.amazonaws.com/ava-dataset/trainval/053oq2xB3oU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.88.42
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.88.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164687625 (157M) [application/x-www-form-urlencoded]
+Saving to: ‘053oq2xB3oU.mkv’
+
+053oq2xB3oU.mkv     100%[===================>] 157.06M   230KB/s    in 8m 48s  
+
+2018-04-22 03:17:12 (304 KB/s) - ‘053oq2xB3oU.mkv’ saved [164687625/164687625]
+
+--2018-04-22 03:17:12--  https://s3.amazonaws.com/ava-dataset/trainval/0f39OWEqJ24.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.162.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.162.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 458710043 (437M) [video/mp4]
+Saving to: ‘0f39OWEqJ24.mp4’
+
+0f39OWEqJ24.mp4     100%[===================>] 437.46M   617KB/s    in 13m 1s  
+
+2018-04-22 03:30:14 (573 KB/s) - ‘0f39OWEqJ24.mp4’ saved [458710043/458710043]
+
+--2018-04-22 03:30:14--  https://s3.amazonaws.com/ava-dataset/trainval/0wBYFahr3uI.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.85.77
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.85.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274752600 (262M) [video/mp4]
+Saving to: ‘0wBYFahr3uI.mp4’
+
+0wBYFahr3uI.mp4     100%[===================>] 262.02M   393KB/s    in 11m 48s 
+
+2018-04-22 03:42:03 (379 KB/s) - ‘0wBYFahr3uI.mp4’ saved [274752600/274752600]
+
+--2018-04-22 03:42:03--  https://s3.amazonaws.com/ava-dataset/trainval/_145Aa_xkuE.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.120.26
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.120.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 328555054 (313M) [video/mp4]
+Saving to: ‘_145Aa_xkuE.mp4’
+
+_145Aa_xkuE.mp4     100%[===================>] 313.33M   500KB/s    in 9m 48s  
+
+2018-04-22 03:51:53 (546 KB/s) - ‘_145Aa_xkuE.mp4’ saved [328555054/328555054]
+
+--2018-04-22 03:51:53--  https://s3.amazonaws.com/ava-dataset/trainval/1j20qq1JyX4.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.100.45
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.100.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252209059 (241M) [video/mp4]
+Saving to: ‘1j20qq1JyX4.mp4’
+
+1j20qq1JyX4.mp4     100%[===================>] 240.52M  1.04MB/s    in 9m 41s  
+
+2018-04-22 04:01:36 (424 KB/s) - ‘1j20qq1JyX4.mp4’ saved [252209059/252209059]
+
+--2018-04-22 04:01:36--  https://s3.amazonaws.com/ava-dataset/trainval/1ReZIMmD_8E.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.131.189
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.131.189|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 493828501 (471M) [video/mp4]
+Saving to: ‘1ReZIMmD_8E.mp4’
+
+1ReZIMmD_8E.mp4     100%[===================>] 470.95M   428KB/s    in 16m 0s  
+
+2018-04-22 04:17:37 (502 KB/s) - ‘1ReZIMmD_8E.mp4’ saved [493828501/493828501]
+
+--2018-04-22 04:17:37--  https://s3.amazonaws.com/ava-dataset/trainval/20TAGRElvfE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.1.187
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.1.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 331430077 (316M) [application/x-www-form-urlencoded]
+Saving to: ‘20TAGRElvfE.mkv’
+
+20TAGRElvfE.mkv     100%[===================>] 316.08M  1.13MB/s    in 7m 52s  
+
+2018-04-22 04:25:31 (685 KB/s) - ‘20TAGRElvfE.mkv’ saved [331430077/331430077]
+
+--2018-04-22 04:25:31--  https://s3.amazonaws.com/ava-dataset/trainval/26V9UzqSguo.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.128.205
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.128.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 437858021 (418M) [video/mp4]
+Saving to: ‘26V9UzqSguo.mp4’
+
+26V9UzqSguo.mp4     100%[===================>] 417.57M  1.25MB/s    in 7m 32s  
+
+2018-04-22 04:33:04 (947 KB/s) - ‘26V9UzqSguo.mp4’ saved [437858021/437858021]
+
+--2018-04-22 04:33:04--  https://s3.amazonaws.com/ava-dataset/trainval/2bxKkUgcqpk.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.82.179
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.82.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 352484379 (336M) [video/mp4]
+Saving to: ‘2bxKkUgcqpk.mp4’
+
+2bxKkUgcqpk.mp4     100%[===================>] 336.16M   735KB/s    in 6m 21s  
+
+2018-04-22 04:39:26 (903 KB/s) - ‘2bxKkUgcqpk.mp4’ saved [352484379/352484379]
+
+--2018-04-22 04:39:26--  https://s3.amazonaws.com/ava-dataset/trainval/2DUITARAsWQ.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.162.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.162.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182078258 (174M) [video/mp4]
+Saving to: ‘2DUITARAsWQ.mp4’
+
+2DUITARAsWQ.mp4     100%[===================>] 173.64M  1.48MB/s    in 2m 59s  
+
+2018-04-22 04:42:27 (992 KB/s) - ‘2DUITARAsWQ.mp4’ saved [182078258/182078258]
+
+--2018-04-22 04:42:27--  https://s3.amazonaws.com/ava-dataset/trainval/2E_e8JlvTlg.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.97.213
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.213|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 482575843 (460M) [application/x-www-form-urlencoded]
+Saving to: ‘2E_e8JlvTlg.mkv’
+
+2E_e8JlvTlg.mkv     100%[===================>] 460.22M   904KB/s    in 7m 35s  
+
+2018-04-22 04:50:03 (1.01 MB/s) - ‘2E_e8JlvTlg.mkv’ saved [482575843/482575843]
+
+--2018-04-22 04:50:03--  https://s3.amazonaws.com/ava-dataset/trainval/2FIHxnZKg6A.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.97.235
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.97.235|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243433226 (232M) [video/webm]
+Saving to: ‘2FIHxnZKg6A.webm’
+
+2FIHxnZKg6A.webm    100%[===================>] 232.16M  1.63MB/s    in 3m 35s  
+
+2018-04-22 04:53:39 (1.08 MB/s) - ‘2FIHxnZKg6A.webm’ saved [243433226/243433226]
+
+--2018-04-22 04:53:39--  https://s3.amazonaws.com/ava-dataset/trainval/2fwni_Kjf2M.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.29
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 957263246 (913M) [application/x-www-form-urlencoded]
+Saving to: ‘2fwni_Kjf2M.mkv’
+
+2fwni_Kjf2M.mkv     100%[===================>] 912.92M  1.11MB/s    in 13m 51s 
+
+2018-04-22 05:07:32 (1.10 MB/s) - ‘2fwni_Kjf2M.mkv’ saved [957263246/957263246]
+
+--2018-04-22 05:07:32--  https://s3.amazonaws.com/ava-dataset/trainval/2KpThOF_QmE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.129.205
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.129.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 808362594 (771M) [application/x-www-form-urlencoded]
+Saving to: ‘2KpThOF_QmE.mkv’
+
+2KpThOF_QmE.mkv     100%[===================>] 770.91M   844KB/s    in 12m 36s 
+
+2018-04-22 05:20:09 (1.02 MB/s) - ‘2KpThOF_QmE.mkv’ saved [808362594/808362594]
+
+--2018-04-22 05:20:09--  https://s3.amazonaws.com/ava-dataset/trainval/2PpxiG0WU18.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.131.109
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.131.109|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194844910 (186M) [application/x-www-form-urlencoded]
+Saving to: ‘2PpxiG0WU18.mkv’
+
+2PpxiG0WU18.mkv     100%[===================>] 185.82M  1.24MB/s    in 3m 7s   
+
+2018-04-22 05:23:17 (1019 KB/s) - ‘2PpxiG0WU18.mkv’ saved [194844910/194844910]
+
+--2018-04-22 05:23:17--  https://s3.amazonaws.com/ava-dataset/trainval/2qQs3Y9OJX0.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.85
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281709097 (269M) [application/x-www-form-urlencoded]
+Saving to: ‘2qQs3Y9OJX0.mkv’
+
+2qQs3Y9OJX0.mkv     100%[===================>] 268.66M   835KB/s    in 4m 11s  
+
+2018-04-22 05:27:29 (1.07 MB/s) - ‘2qQs3Y9OJX0.mkv’ saved [281709097/281709097]
+
+--2018-04-22 05:27:29--  https://s3.amazonaws.com/ava-dataset/trainval/32HR3MnDZ8g.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.81.3
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.81.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 314643792 (300M) [video/mp4]
+Saving to: ‘32HR3MnDZ8g.mp4’
+
+32HR3MnDZ8g.mp4     100%[===================>] 300.07M  1.25MB/s    in 5m 46s  
+
+2018-04-22 05:33:16 (889 KB/s) - ‘32HR3MnDZ8g.mp4’ saved [314643792/314643792]
+
+--2018-04-22 05:33:16--  https://s3.amazonaws.com/ava-dataset/trainval/3IOE-Q3UWdA.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.99.181
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.99.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 368008919 (351M) [video/mp4]
+Saving to: ‘3IOE-Q3UWdA.mp4’
+
+3IOE-Q3UWdA.mp4     100%[===================>] 350.96M   824KB/s    in 5m 21s  
+
+2018-04-22 05:38:39 (1.09 MB/s) - ‘3IOE-Q3UWdA.mp4’ saved [368008919/368008919]
+
+--2018-04-22 05:38:39--  https://s3.amazonaws.com/ava-dataset/trainval/3_VjIRdXVdM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.230.149
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.230.149|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232670461 (222M) [application/x-www-form-urlencoded]
+Saving to: ‘3_VjIRdXVdM.mkv’
+
+3_VjIRdXVdM.mkv     100%[===================>] 221.89M   987KB/s    in 3m 39s  
+
+2018-04-22 05:42:19 (1.01 MB/s) - ‘3_VjIRdXVdM.mkv’ saved [232670461/232670461]
+
+--2018-04-22 05:42:19--  https://s3.amazonaws.com/ava-dataset/trainval/4gVsDd8PV9U.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.98.197
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.98.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 587579944 (560M) [video/mp4]
+Saving to: ‘4gVsDd8PV9U.mp4’
+
+4gVsDd8PV9U.mp4     100%[===================>] 560.36M  1.06MB/s    in 9m 10s  
+
+2018-04-22 05:51:30 (1.02 MB/s) - ‘4gVsDd8PV9U.mp4’ saved [587579944/587579944]
+
+--2018-04-22 05:51:30--  https://s3.amazonaws.com/ava-dataset/trainval/4k-rTF3oZKw.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.161.149
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.161.149|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270856778 (258M) [video/mp4]
+Saving to: ‘4k-rTF3oZKw.mp4’
+
+4k-rTF3oZKw.mp4     100%[===================>] 258.31M   887KB/s    in 4m 21s  
+
+2018-04-22 05:55:53 (1013 KB/s) - ‘4k-rTF3oZKw.mp4’ saved [270856778/270856778]
+
+--2018-04-22 05:55:53--  https://s3.amazonaws.com/ava-dataset/trainval/4Y5qi1gD2Sw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.130.77
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.130.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 787397422 (751M) [application/x-www-form-urlencoded]
+Saving to: ‘4Y5qi1gD2Sw.mkv’
+
+4Y5qi1gD2Sw.mkv     100%[===================>] 750.92M   924KB/s    in 12m 18s 
+
+2018-04-22 06:08:12 (1.02 MB/s) - ‘4Y5qi1gD2Sw.mkv’ saved [787397422/787397422]
+
+--2018-04-22 06:08:12--  https://s3.amazonaws.com/ava-dataset/trainval/4ZpjKfu6Cl8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.1.75
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.1.75|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1037398704 (989M) [application/x-www-form-urlencoded]
+Saving to: ‘4ZpjKfu6Cl8.mkv’
+
+4ZpjKfu6Cl8.mkv     100%[===================>] 989.34M   824KB/s    in 17m 34s 
+
+2018-04-22 06:25:47 (962 KB/s) - ‘4ZpjKfu6Cl8.mkv’ saved [1037398704/1037398704]
+
+--2018-04-22 06:25:47--  https://s3.amazonaws.com/ava-dataset/trainval/55Ihr6uVIDA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.66.3
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.66.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236099657 (225M) [application/x-www-form-urlencoded]
+Saving to: ‘55Ihr6uVIDA.mkv’
+
+55Ihr6uVIDA.mkv     100%[===================>] 225.16M  1.00MB/s    in 5m 28s  
+
+2018-04-22 06:31:16 (703 KB/s) - ‘55Ihr6uVIDA.mkv’ saved [236099657/236099657]
+
+--2018-04-22 06:31:16--  https://s3.amazonaws.com/ava-dataset/trainval/5BDj0ow5hnA.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.37
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 875338998 (835M) [video/mp4]
+Saving to: ‘5BDj0ow5hnA.mp4’
+
+5BDj0ow5hnA.mp4     100%[===================>] 834.79M  1.96MB/s    in 12m 38s 
+
+2018-04-22 06:43:55 (1.10 MB/s) - ‘5BDj0ow5hnA.mp4’ saved [875338998/875338998]
+
+--2018-04-22 06:43:55--  https://s3.amazonaws.com/ava-dataset/trainval/-5KQ66BBWC4.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.225.179
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.225.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263240949 (251M) [application/x-www-form-urlencoded]
+Saving to: ‘-5KQ66BBWC4.mkv’
+
+-5KQ66BBWC4.mkv     100%[===================>] 251.05M  1.76MB/s    in 75s     
+
+2018-04-22 06:45:11 (3.36 MB/s) - ‘-5KQ66BBWC4.mkv’ saved [263240949/263240949]
+
+--2018-04-22 06:45:11--  https://s3.amazonaws.com/ava-dataset/trainval/5LrOQEt_XVM.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 402543443 (384M) [video/mp4]
+Saving to: ‘5LrOQEt_XVM.mp4’
+
+5LrOQEt_XVM.mp4     100%[===================>] 383.89M  1.69MB/s    in 2m 25s  
+
+2018-04-22 06:47:38 (2.64 MB/s) - ‘5LrOQEt_XVM.mp4’ saved [402543443/402543443]
+
+--2018-04-22 06:47:38--  https://s3.amazonaws.com/ava-dataset/trainval/5milLu-6bWI.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.228.227
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.228.227|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235901323 (225M) [video/mp4]
+Saving to: ‘5milLu-6bWI.mp4’
+
+5milLu-6bWI.mp4     100%[===================>] 224.97M  1.65MB/s    in 2m 37s  
+
+2018-04-22 06:50:16 (1.43 MB/s) - ‘5milLu-6bWI.mp4’ saved [235901323/235901323]
+
+--2018-04-22 06:50:16--  https://s3.amazonaws.com/ava-dataset/trainval/5MxjqHfkWFI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.161.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.161.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 405746678 (387M) [application/x-www-form-urlencoded]
+Saving to: ‘5MxjqHfkWFI.mkv’
+
+5MxjqHfkWFI.mkv     100%[===================>] 386.95M  1.76MB/s    in 5m 5s   
+
+2018-04-22 06:55:23 (1.27 MB/s) - ‘5MxjqHfkWFI.mkv’ saved [405746678/405746678]
+
+--2018-04-22 06:55:23--  https://s3.amazonaws.com/ava-dataset/trainval/5YPjcdLbs5g.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.48.187
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.48.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 532975899 (508M) [application/x-www-form-urlencoded]
+Saving to: ‘5YPjcdLbs5g.mkv’
+
+5YPjcdLbs5g.mkv     100%[===================>] 508.29M   857KB/s    in 6m 54s  
+
+2018-04-22 07:02:18 (1.23 MB/s) - ‘5YPjcdLbs5g.mkv’ saved [532975899/532975899]
+
+--2018-04-22 07:02:18--  https://s3.amazonaws.com/ava-dataset/trainval/6d5u6FHvz7Q.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.50.66
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.50.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 569745555 (543M) [application/x-www-form-urlencoded]
+Saving to: ‘6d5u6FHvz7Q.mkv’
+
+6d5u6FHvz7Q.mkv     100%[===================>] 543.35M  1.10MB/s    in 8m 34s  
+
+2018-04-22 07:10:53 (1.06 MB/s) - ‘6d5u6FHvz7Q.mkv’ saved [569745555/569745555]
+
+--2018-04-22 07:10:53--  https://s3.amazonaws.com/ava-dataset/trainval/7g37N3eoQ9s.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.20.19
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.20.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 368142513 (351M) [application/x-www-form-urlencoded]
+Saving to: ‘7g37N3eoQ9s.mkv’
+
+7g37N3eoQ9s.mkv     100%[===================>] 351.09M   883KB/s    in 6m 24s  
+
+2018-04-22 07:17:18 (937 KB/s) - ‘7g37N3eoQ9s.mkv’ saved [368142513/368142513]
+
+--2018-04-22 07:17:18--  https://s3.amazonaws.com/ava-dataset/trainval/7nHkh4sP5Ks.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.132.109
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.132.109|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258950246 (247M) [application/x-www-form-urlencoded]
+Saving to: ‘7nHkh4sP5Ks.mkv’
+
+7nHkh4sP5Ks.mkv     100%[===================>] 246.95M  1.37MB/s    in 4m 59s  
+
+2018-04-22 07:22:18 (846 KB/s) - ‘7nHkh4sP5Ks.mkv’ saved [258950246/258950246]
+
+--2018-04-22 07:22:18--  https://s3.amazonaws.com/ava-dataset/trainval/_7oWZq_s_Sk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.97.173
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 388756569 (371M) [application/x-www-form-urlencoded]
+Saving to: ‘_7oWZq_s_Sk.mkv’
+
+_7oWZq_s_Sk.mkv     100%[===================>] 370.75M   847KB/s    in 6m 28s  
+
+2018-04-22 07:28:48 (978 KB/s) - ‘_7oWZq_s_Sk.mkv’ saved [388756569/388756569]
+
+--2018-04-22 07:28:48--  https://s3.amazonaws.com/ava-dataset/trainval/7T5G0CmwTPo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.85.69
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.85.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301685202 (288M) [application/x-www-form-urlencoded]
+Saving to: ‘7T5G0CmwTPo.mkv’
+
+7T5G0CmwTPo.mkv     100%[===================>] 287.71M  1.07MB/s    in 5m 3s   
+
+2018-04-22 07:33:52 (972 KB/s) - ‘7T5G0CmwTPo.mkv’ saved [301685202/301685202]
+
+--2018-04-22 07:33:52--  https://s3.amazonaws.com/ava-dataset/trainval/7YpF6DntOYw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.221
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1176993633 (1.1G) [application/x-www-form-urlencoded]
+Saving to: ‘7YpF6DntOYw.mkv’
+
+7YpF6DntOYw.mkv     100%[===================>]   1.10G  1023KB/s    in 18m 28s 
+
+2018-04-22 07:52:22 (1.01 MB/s) - ‘7YpF6DntOYw.mkv’ saved [1176993633/1176993633]
+
+--2018-04-22 07:52:22--  https://s3.amazonaws.com/ava-dataset/trainval/8aMv-ZGD4ic.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.157
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462514664 (441M) [application/x-www-form-urlencoded]
+Saving to: ‘8aMv-ZGD4ic.mkv’
+
+8aMv-ZGD4ic.mkv     100%[===================>] 441.09M   944KB/s    in 7m 34s  
+
+2018-04-22 07:59:57 (995 KB/s) - ‘8aMv-ZGD4ic.mkv’ saved [462514664/462514664]
+
+--2018-04-22 07:59:57--  https://s3.amazonaws.com/ava-dataset/trainval/8JSxLhDMGtE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.225.155
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.225.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 604655329 (577M) [application/x-www-form-urlencoded]
+Saving to: ‘8JSxLhDMGtE.mkv’
+
+8JSxLhDMGtE.mkv     100%[===================>] 576.64M  1.21MB/s    in 10m 32s 
+
+2018-04-22 08:10:30 (935 KB/s) - ‘8JSxLhDMGtE.mkv’ saved [604655329/604655329]
+
+--2018-04-22 08:10:30--  https://s3.amazonaws.com/ava-dataset/trainval/8nO5FFbIAog.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.49.51
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.49.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234087781 (223M) [video/webm]
+Saving to: ‘8nO5FFbIAog.webm’
+
+8nO5FFbIAog.webm    100%[===================>] 223.24M  1.29MB/s    in 3m 23s  
+
+2018-04-22 08:13:55 (1.10 MB/s) - ‘8nO5FFbIAog.webm’ saved [234087781/234087781]
+
+--2018-04-22 08:13:55--  https://s3.amazonaws.com/ava-dataset/trainval/8VZEwOCQ8bc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.100.181
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.100.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 406988513 (388M) [application/x-www-form-urlencoded]
+Saving to: ‘8VZEwOCQ8bc.mkv’
+
+8VZEwOCQ8bc.mkv     100%[===================>] 388.13M  1.08MB/s    in 6m 5s   
+
+2018-04-22 08:20:01 (1.06 MB/s) - ‘8VZEwOCQ8bc.mkv’ saved [406988513/406988513]
+
+--2018-04-22 08:20:01--  https://s3.amazonaws.com/ava-dataset/trainval/914yZXz-iRs.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.97.197
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260795587 (249M) [application/x-www-form-urlencoded]
+Saving to: ‘914yZXz-iRs.mkv’
+
+914yZXz-iRs.mkv     100%[===================>] 248.71M   885KB/s    in 4m 27s  
+
+2018-04-22 08:24:29 (953 KB/s) - ‘914yZXz-iRs.mkv’ saved [260795587/260795587]
+
+--2018-04-22 08:24:29--  https://s3.amazonaws.com/ava-dataset/trainval/9bK05eBt1GM.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.83.91
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.83.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302785527 (289M) [video/mp4]
+Saving to: ‘9bK05eBt1GM.mp4’
+
+9bK05eBt1GM.mp4     100%[===================>] 288.76M  1.48MB/s    in 5m 16s  
+
+2018-04-22 08:29:46 (937 KB/s) - ‘9bK05eBt1GM.mp4’ saved [302785527/302785527]
+
+--2018-04-22 08:29:46--  https://s3.amazonaws.com/ava-dataset/trainval/9eAOr_ttXp0.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.163.133
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.163.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539256832 (514M) [application/x-www-form-urlencoded]
+Saving to: ‘9eAOr_ttXp0.mkv’
+
+9eAOr_ttXp0.mkv     100%[===================>] 514.28M   966KB/s    in 8m 59s  
+
+2018-04-22 08:38:47 (976 KB/s) - ‘9eAOr_ttXp0.mkv’ saved [539256832/539256832]
+
+--2018-04-22 08:38:47--  https://s3.amazonaws.com/ava-dataset/trainval/9F2voT6QWvQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.80.27
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.80.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2161506497 (2.0G) [application/x-www-form-urlencoded]
+Saving to: ‘9F2voT6QWvQ.mkv’
+
+9F2voT6QWvQ.mkv     100%[===================>]   2.01G   656KB/s    in 42m 46s 
+
+2018-04-22 09:21:34 (823 KB/s) - ‘9F2voT6QWvQ.mkv’ saved [2161506497/2161506497]
+
+--2018-04-22 09:21:34--  https://s3.amazonaws.com/ava-dataset/trainval/9HOMUW7QNFc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.40.114
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.40.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312395405 (298M) [application/x-www-form-urlencoded]
+Saving to: ‘9HOMUW7QNFc.mkv’
+
+9HOMUW7QNFc.mkv     100%[===================>] 297.92M   509KB/s    in 7m 44s  
+
+2018-04-22 09:29:19 (657 KB/s) - ‘9HOMUW7QNFc.mkv’ saved [312395405/312395405]
+
+--2018-04-22 09:29:19--  https://s3.amazonaws.com/ava-dataset/trainval/9IF8uTRrWAM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.32.11
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.32.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 687285603 (655M) [application/x-www-form-urlencoded]
+Saving to: ‘9IF8uTRrWAM.mkv’
+
+9IF8uTRrWAM.mkv     100%[===================>] 655.45M  1.02MB/s    in 18m 23s 
+
+2018-04-22 09:47:44 (608 KB/s) - ‘9IF8uTRrWAM.mkv’ saved [687285603/687285603]
+
+--2018-04-22 09:47:44--  https://s3.amazonaws.com/ava-dataset/trainval/9mLYmkonWZQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.49.180
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.49.180|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290852888 (277M) [application/x-www-form-urlencoded]
+Saving to: ‘9mLYmkonWZQ.mkv’
+
+9mLYmkonWZQ.mkv     100%[===================>] 277.38M   757KB/s    in 6m 58s  
+
+2018-04-22 09:54:44 (679 KB/s) - ‘9mLYmkonWZQ.mkv’ saved [290852888/290852888]
+
+--2018-04-22 09:54:44--  https://s3.amazonaws.com/ava-dataset/trainval/9QbzS8bZXFE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.48.187
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.48.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213271099 (203M) [application/x-www-form-urlencoded]
+Saving to: ‘9QbzS8bZXFE.mkv’
+
+9QbzS8bZXFE.mkv     100%[===================>] 203.39M   302KB/s    in 5m 56s  
+
+2018-04-22 10:00:40 (586 KB/s) - ‘9QbzS8bZXFE.mkv’ saved [213271099/213271099]
+
+--2018-04-22 10:00:40--  https://s3.amazonaws.com/ava-dataset/trainval/9Rcxr3IEX4E.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.226.83
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.226.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385492451 (368M) [application/x-www-form-urlencoded]
+Saving to: ‘9Rcxr3IEX4E.mkv’
+
+9Rcxr3IEX4E.mkv     100%[===================>] 367.63M   340KB/s    in 12m 54s 
+
+2018-04-22 10:13:35 (486 KB/s) - ‘9Rcxr3IEX4E.mkv’ saved [385492451/385492451]
+
+--2018-04-22 10:13:35--  https://s3.amazonaws.com/ava-dataset/trainval/9tyiDEYiWiA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.141
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 344244675 (328M) [application/x-www-form-urlencoded]
+Saving to: ‘9tyiDEYiWiA.mkv’
+
+9tyiDEYiWiA.mkv     100%[===================>] 328.30M   529KB/s    in 12m 58s 
+
+2018-04-22 10:26:35 (432 KB/s) - ‘9tyiDEYiWiA.mkv’ saved [344244675/344244675]
+
+--2018-04-22 10:26:35--  https://s3.amazonaws.com/ava-dataset/trainval/9Y_l9NsnYE0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.114.234
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.114.234|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299051037 (285M) [video/mp4]
+Saving to: ‘9Y_l9NsnYE0.mp4’
+
+9Y_l9NsnYE0.mp4     100%[===================>] 285.20M   125KB/s    in 15m 5s  
+
+2018-04-22 10:41:41 (323 KB/s) - ‘9Y_l9NsnYE0.mp4’ saved [299051037/299051037]
+
+--2018-04-22 10:41:41--  https://s3.amazonaws.com/ava-dataset/trainval/a5mEmM6w_ks.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.101.141
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.101.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163197470 (156M) [application/x-www-form-urlencoded]
+Saving to: ‘a5mEmM6w_ks.mkv’
+
+a5mEmM6w_ks.mkv     100%[===================>] 155.64M   214KB/s    in 18m 52s 
+
+2018-04-22 11:00:34 (141 KB/s) - ‘a5mEmM6w_ks.mkv’ saved [163197470/163197470]
+
+--2018-04-22 11:00:34--  https://s3.amazonaws.com/ava-dataset/trainval/_a9SWtcaNj8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.121.26
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.121.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 533694493 (509M) [application/x-www-form-urlencoded]
+Saving to: ‘_a9SWtcaNj8.mkv’
+
+_a9SWtcaNj8.mkv     100%[===================>] 508.97M   229KB/s    in 57m 53s 
+
+2018-04-22 11:58:28 (150 KB/s) - ‘_a9SWtcaNj8.mkv’ saved [533694493/533694493]
+
+--2018-04-22 11:58:28--  https://s3.amazonaws.com/ava-dataset/trainval/aDEYi1OG0vU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.32.98
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.32.98|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 706254351 (674M) [application/x-www-form-urlencoded]
+Saving to: ‘aDEYi1OG0vU.mkv’
+
+aDEYi1OG0vU.mkv     100%[===================>] 673.54M   355KB/s    in 49m 11s 
+
+2018-04-22 12:47:41 (234 KB/s) - ‘aDEYi1OG0vU.mkv’ saved [706254351/706254351]
+
+--2018-04-22 12:47:41--  https://s3.amazonaws.com/ava-dataset/trainval/Ag-pXiLrd48.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.64.195
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.64.195|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1937423826 (1.8G) [video/mp4]
+Saving to: ‘Ag-pXiLrd48.mp4’
+
+Ag-pXiLrd48.mp4      70%[=============>      ]   1.27G  26.8KB/s    in 2h 9m   
+
+2018-04-22 15:01:50 (171 KB/s) - Read error at byte 1359982225/1937423826 (Connection reset by peer). Retrying.
+
+--2018-04-22 15:01:51--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/Ag-pXiLrd48.mp4
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.64.195|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 1937423826 (1.8G), 577441601 (551M) remaining [video/mp4]
+Saving to: ‘Ag-pXiLrd48.mp4’
+
+Ag-pXiLrd48.mp4      75%[++++++++++++++>     ]   1.36G  13.9KB/s    in 23m 37s 
+
+2018-04-22 15:40:30 (67.6 KB/s) - Read error at byte 1458058463/1937423826 (Success). Retrying.
+
+--2018-04-22 15:40:32--  (try: 3)  https://s3.amazonaws.com/ava-dataset/trainval/Ag-pXiLrd48.mp4
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.64.195|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 1937423826 (1.8G), 479365363 (457M) remaining [video/mp4]
+Saving to: ‘Ag-pXiLrd48.mp4’
+
+Ag-pXiLrd48.mp4     100%[+++++++++++++++====>]   1.80G  21.7KB/s    in 90m 8s  
+
+2018-04-22 17:10:40 (86.6 KB/s) - ‘Ag-pXiLrd48.mp4’ saved [1937423826/1937423826]
+
+--2018-04-22 17:10:40--  https://s3.amazonaws.com/ava-dataset/trainval/aMYcLyh9OhU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-22 17:10:40--  https://s3.amazonaws.com/ava-dataset/trainval/AN07xQokfiE.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.165.45
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.165.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290922414 (277M) [video/mp4]
+Saving to: ‘AN07xQokfiE.mp4’
+
+AN07xQokfiE.mp4     100%[===================>] 277.44M  40.9KB/s    in 76m 13s 
+
+2018-04-22 18:26:54 (62.1 KB/s) - ‘AN07xQokfiE.mp4’ saved [290922414/290922414]
+
+--2018-04-22 18:26:54--  https://s3.amazonaws.com/ava-dataset/trainval/aRbLw-dU2XY.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-22 18:26:54--  https://s3.amazonaws.com/ava-dataset/trainval/ax3q-RkVIt4.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.134.77
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.134.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 483087659 (461M) [video/mp4]
+Saving to: ‘ax3q-RkVIt4.mp4’
+
+ax3q-RkVIt4.mp4     100%[===================>] 460.71M   230KB/s    in 95m 18s 
+
+2018-04-22 20:02:14 (82.5 KB/s) - ‘ax3q-RkVIt4.mp4’ saved [483087659/483087659]
+
+--2018-04-22 20:02:14--  https://s3.amazonaws.com/ava-dataset/trainval/ayAMdYfJJLk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.73.42
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.73.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232875467 (222M) [application/x-www-form-urlencoded]
+Saving to: ‘ayAMdYfJJLk.mkv’
+
+ayAMdYfJJLk.mkv     100%[===================>] 222.09M   177KB/s    in 12m 59s 
+
+2018-04-22 20:15:14 (292 KB/s) - ‘ayAMdYfJJLk.mkv’ saved [232875467/232875467]
+
+--2018-04-22 20:15:14--  https://s3.amazonaws.com/ava-dataset/trainval/AYebXQ8eUkM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.228.179
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.228.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2050230772 (1.9G) [application/x-www-form-urlencoded]
+Saving to: ‘AYebXQ8eUkM.mkv’
+
+AYebXQ8eUkM.mkv     100%[===================>]   1.91G   524KB/s    in 71m 20s 
+
+2018-04-22 21:26:36 (468 KB/s) - ‘AYebXQ8eUkM.mkv’ saved [2050230772/2050230772]
+
+--2018-04-22 21:26:36--  https://s3.amazonaws.com/ava-dataset/trainval/B1MAUxpKaV8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.18.219
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.18.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 809607131 (772M) [application/x-www-form-urlencoded]
+Saving to: ‘B1MAUxpKaV8.mkv’
+
+B1MAUxpKaV8.mkv     100%[===================>] 772.10M   288KB/s    in 29m 4s  
+
+2018-04-22 21:55:41 (453 KB/s) - ‘B1MAUxpKaV8.mkv’ saved [809607131/809607131]
+
+--2018-04-22 21:55:41--  https://s3.amazonaws.com/ava-dataset/trainval/b50s4AlOOKY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.129.125
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.129.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 426505686 (407M) [application/x-www-form-urlencoded]
+Saving to: ‘b50s4AlOOKY.mkv’
+
+b50s4AlOOKY.mkv     100%[===================>] 406.75M   528KB/s    in 18m 23s 
+
+2018-04-22 22:14:05 (378 KB/s) - ‘b50s4AlOOKY.mkv’ saved [426505686/426505686]
+
+--2018-04-22 22:14:05--  https://s3.amazonaws.com/ava-dataset/trainval/b5pRYl_djbs.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-22 22:14:05--  https://s3.amazonaws.com/ava-dataset/trainval/bAVXp1oGjHA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.132.85
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.132.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 481668624 (459M) [application/x-www-form-urlencoded]
+Saving to: ‘bAVXp1oGjHA.mkv’
+
+bAVXp1oGjHA.mkv     100%[===================>] 459.35M   137KB/s    in 37m 2s  
+
+2018-04-22 22:51:09 (212 KB/s) - ‘bAVXp1oGjHA.mkv’ saved [481668624/481668624]
+
+--2018-04-22 22:51:09--  https://s3.amazonaws.com/ava-dataset/trainval/BCiuXAuCKAU.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-22 22:51:09--  https://s3.amazonaws.com/ava-dataset/trainval/bePts02nIY8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.163.5
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.163.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272741181 (260M) [application/x-www-form-urlencoded]
+Saving to: ‘bePts02nIY8.mkv’
+
+bePts02nIY8.mkv     100%[===================>] 260.11M  66.4KB/s    in 32m 1s  
+
+2018-04-22 23:23:11 (139 KB/s) - ‘bePts02nIY8.mkv’ saved [272741181/272741181]
+
+--2018-04-22 23:23:11--  https://s3.amazonaws.com/ava-dataset/trainval/bhlFavrh7WU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.100.245
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.100.245|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222338693 (212M) [application/x-www-form-urlencoded]
+Saving to: ‘bhlFavrh7WU.mkv’
+
+bhlFavrh7WU.mkv     100%[===================>] 212.04M   163KB/s    in 33m 18s 
+
+2018-04-22 23:56:30 (109 KB/s) - ‘bhlFavrh7WU.mkv’ saved [222338693/222338693]
+
+--2018-04-22 23:56:30--  https://s3.amazonaws.com/ava-dataset/trainval/bSZiZ4rOC7c.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.129.189
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.129.189|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220409224 (210M) [application/x-www-form-urlencoded]
+Saving to: ‘bSZiZ4rOC7c.mkv’
+
+bSZiZ4rOC7c.mkv     100%[===================>] 210.20M  37.8KB/s    in 34m 2s  
+
+2018-04-23 00:30:33 (105 KB/s) - ‘bSZiZ4rOC7c.mkv’ saved [220409224/220409224]
+
+--2018-04-23 00:30:33--  https://s3.amazonaws.com/ava-dataset/trainval/BXCh3r-pPAM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.114.16
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.114.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307098272 (293M) [application/x-www-form-urlencoded]
+Saving to: ‘BXCh3r-pPAM.mkv’
+
+BXCh3r-pPAM.mkv     100%[===================>] 292.87M  74.4KB/s    in 31m 59s 
+
+2018-04-23 01:02:33 (156 KB/s) - ‘BXCh3r-pPAM.mkv’ saved [307098272/307098272]
+
+--2018-04-23 01:02:33--  https://s3.amazonaws.com/ava-dataset/trainval/BY3sZmvUp-0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 01:02:33--  https://s3.amazonaws.com/ava-dataset/trainval/b-YoBU0XT90.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.33.178
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.33.178|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 874940994 (834M) [video/mp4]
+Saving to: ‘b-YoBU0XT90.mp4’
+
+b-YoBU0XT90.mp4      28%[====>               ] 235.58M  34.6KB/s    in 44m 50s 
+
+2018-04-23 01:52:26 (89.7 KB/s) - Read error at byte 247019155/874940994 (Connection reset by peer). Retrying.
+
+--2018-04-23 01:52:27--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/b-YoBU0XT90.mp4
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.33.178|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 874940994 (834M), 627921839 (599M) remaining [video/mp4]
+Saving to: ‘b-YoBU0XT90.mp4’
+
+b-YoBU0XT90.mp4     100%[+++++==============>] 834.41M   143KB/s    in 68m 56s 
+
+2018-04-23 03:01:25 (148 KB/s) - ‘b-YoBU0XT90.mp4’ saved [874940994/874940994]
+
+--2018-04-23 03:01:25--  https://s3.amazonaws.com/ava-dataset/trainval/C25wkwAMB-w.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.121.66
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.121.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1649962717 (1.5G) [application/x-www-form-urlencoded]
+Saving to: ‘C25wkwAMB-w.mkv’
+
+C25wkwAMB-w.mkv     100%[===================>]   1.54G  1.10MB/s    in 46m 44s 
+
+2018-04-23 03:48:10 (575 KB/s) - ‘C25wkwAMB-w.mkv’ saved [1649962717/1649962717]
+
+--2018-04-23 03:48:10--  https://s3.amazonaws.com/ava-dataset/trainval/C3qk4yAMANk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 03:48:10--  https://s3.amazonaws.com/ava-dataset/trainval/c9pEMjPT16M.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.45
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340432181 (325M) [video/webm]
+Saving to: ‘c9pEMjPT16M.webm’
+
+c9pEMjPT16M.webm    100%[===================>] 324.66M   271KB/s    in 16m 14s 
+
+2018-04-23 04:04:26 (341 KB/s) - ‘c9pEMjPT16M.webm’ saved [340432181/340432181]
+
+--2018-04-23 04:04:26--  https://s3.amazonaws.com/ava-dataset/trainval/_Ca3gOdOHxU.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.157
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 541907613 (517M) [video/mp4]
+Saving to: ‘_Ca3gOdOHxU.mp4’
+
+_Ca3gOdOHxU.mp4     100%[===================>] 516.80M   367KB/s    in 13m 51s 
+
+2018-04-23 04:18:18 (637 KB/s) - ‘_Ca3gOdOHxU.mp4’ saved [541907613/541907613]
+
+--2018-04-23 04:18:18--  https://s3.amazonaws.com/ava-dataset/trainval/cc4y-yYm5Ao.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.120.50
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.120.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425795666 (406M) [application/x-www-form-urlencoded]
+Saving to: ‘cc4y-yYm5Ao.mkv’
+
+cc4y-yYm5Ao.mkv     100%[===================>] 406.07M   477KB/s    in 12m 17s 
+
+2018-04-23 04:30:36 (564 KB/s) - ‘cc4y-yYm5Ao.mkv’ saved [425795666/425795666]
+
+--2018-04-23 04:30:36--  https://s3.amazonaws.com/ava-dataset/trainval/CG98XdYsgrA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 04:30:36--  https://s3.amazonaws.com/ava-dataset/trainval/cKA-qeZuH_w.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.165.77
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.165.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348868382 (333M) [application/x-www-form-urlencoded]
+Saving to: ‘cKA-qeZuH_w.mkv’
+
+cKA-qeZuH_w.mkv     100%[===================>] 332.71M   322KB/s    in 10m 23s 
+
+2018-04-23 04:41:00 (546 KB/s) - ‘cKA-qeZuH_w.mkv’ saved [348868382/348868382]
+
+--2018-04-23 04:41:00--  https://s3.amazonaws.com/ava-dataset/trainval/cLiJgvrDlWw.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.157
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 942557304 (899M) [video/mp4]
+Saving to: ‘cLiJgvrDlWw.mp4’
+
+cLiJgvrDlWw.mp4     100%[===================>] 898.89M  1.20MB/s    in 13m 32s 
+
+2018-04-23 04:54:34 (1.11 MB/s) - ‘cLiJgvrDlWw.mp4’ saved [942557304/942557304]
+
+--2018-04-23 04:54:34--  https://s3.amazonaws.com/ava-dataset/trainval/CMCPhm2L400.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.72.74
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.72.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256659117 (245M) [application/x-www-form-urlencoded]
+Saving to: ‘CMCPhm2L400.mkv’
+
+CMCPhm2L400.mkv     100%[===================>] 244.77M  1.08MB/s    in 4m 43s  
+
+2018-04-23 04:59:17 (887 KB/s) - ‘CMCPhm2L400.mkv’ saved [256659117/256659117]
+
+--2018-04-23 04:59:17--  https://s3.amazonaws.com/ava-dataset/trainval/covMYDBa5dk.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.163.29
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.163.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383707143 (366M) [video/mp4]
+Saving to: ‘covMYDBa5dk.mp4’
+
+covMYDBa5dk.mp4     100%[===================>] 365.93M  1.85MB/s    in 5m 33s  
+
+2018-04-23 05:04:52 (1.10 MB/s) - ‘covMYDBa5dk.mp4’ saved [383707143/383707143]
+
+--2018-04-23 05:04:52--  https://s3.amazonaws.com/ava-dataset/trainval/CrlfWnsS7ac.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 05:04:52--  https://s3.amazonaws.com/ava-dataset/trainval/cWYJHb25EVs.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.120.82
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.120.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307394571 (293M) [video/mp4]
+Saving to: ‘cWYJHb25EVs.mp4’
+
+cWYJHb25EVs.mp4     100%[===================>] 293.15M  1.04MB/s    in 8m 26s  
+
+2018-04-23 05:13:19 (593 KB/s) - ‘cWYJHb25EVs.mp4’ saved [307394571/307394571]
+
+--2018-04-23 05:13:19--  https://s3.amazonaws.com/ava-dataset/trainval/CZ2NP8UsPuE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.0.11
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.0.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 352921215 (337M) [application/x-www-form-urlencoded]
+Saving to: ‘CZ2NP8UsPuE.mkv’
+
+CZ2NP8UsPuE.mkv     100%[===================>] 336.57M   853KB/s    in 4m 17s  
+
+2018-04-23 05:17:37 (1.31 MB/s) - ‘CZ2NP8UsPuE.mkv’ saved [352921215/352921215]
+
+--2018-04-23 05:17:37--  https://s3.amazonaws.com/ava-dataset/trainval/D8Vhxbho1fY.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.131.133
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.131.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 834819696 (796M) [video/mp4]
+Saving to: ‘D8Vhxbho1fY.mp4’
+
+D8Vhxbho1fY.mp4     100%[===================>] 796.15M  1.22MB/s    in 9m 47s  
+
+2018-04-23 05:27:25 (1.36 MB/s) - ‘D8Vhxbho1fY.mp4’ saved [834819696/834819696]
+
+--2018-04-23 05:27:25--  https://s3.amazonaws.com/ava-dataset/trainval/Db19rWN5BGo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.0.75
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.0.75|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 920563176 (878M) [application/x-www-form-urlencoded]
+Saving to: ‘Db19rWN5BGo.mkv’
+
+Db19rWN5BGo.mkv     100%[===================>] 877.92M  1.62MB/s    in 11m 50s 
+
+2018-04-23 05:39:17 (1.24 MB/s) - ‘Db19rWN5BGo.mkv’ saved [920563176/920563176]
+
+--2018-04-23 05:39:17--  https://s3.amazonaws.com/ava-dataset/trainval/D-BJTU6NxZ8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 05:39:17--  https://s3.amazonaws.com/ava-dataset/trainval/_dBTTYDRdRQ.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.113.216
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.113.216|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228631351 (218M) [video/webm]
+Saving to: ‘_dBTTYDRdRQ.webm’
+
+_dBTTYDRdRQ.webm    100%[===================>] 218.04M  1.30MB/s    in 4m 51s  
+
+2018-04-23 05:44:09 (766 KB/s) - ‘_dBTTYDRdRQ.webm’ saved [228631351/228631351]
+
+--2018-04-23 05:44:09--  https://s3.amazonaws.com/ava-dataset/trainval/dgLApPvmfBE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 05:44:09--  https://s3.amazonaws.com/ava-dataset/trainval/Di1MG6auDYo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.64.251
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.64.251|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 803497985 (766M) [application/x-www-form-urlencoded]
+Saving to: ‘Di1MG6auDYo.mkv’
+
+Di1MG6auDYo.mkv     100%[===================>] 766.28M   504KB/s    in 14m 30s 
+
+2018-04-23 05:58:40 (902 KB/s) - ‘Di1MG6auDYo.mkv’ saved [803497985/803497985]
+
+--2018-04-23 05:58:40--  https://s3.amazonaws.com/ava-dataset/trainval/dMH8L7mqCNI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.11.147
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.11.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 820268465 (782M) [application/x-www-form-urlencoded]
+Saving to: ‘dMH8L7mqCNI.mkv’
+
+dMH8L7mqCNI.mkv     100%[===================>] 782.27M  1.01MB/s    in 13m 47s 
+
+2018-04-23 06:12:28 (969 KB/s) - ‘dMH8L7mqCNI.mkv’ saved [820268465/820268465]
+
+--2018-04-23 06:12:28--  https://s3.amazonaws.com/ava-dataset/trainval/E2jecoyAx1M.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.97.235
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.97.235|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 389317455 (371M) [application/x-www-form-urlencoded]
+Saving to: ‘E2jecoyAx1M.mkv’
+
+E2jecoyAx1M.mkv     100%[===================>] 371.28M   906KB/s    in 9m 31s  
+
+2018-04-23 06:22:01 (665 KB/s) - ‘E2jecoyAx1M.mkv’ saved [389317455/389317455]
+
+--2018-04-23 06:22:01--  https://s3.amazonaws.com/ava-dataset/trainval/E7JcKooKVsM.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 06:22:01--  https://s3.amazonaws.com/ava-dataset/trainval/eA55_shhKko.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.17.147
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.17.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241694291 (230M) [application/x-www-form-urlencoded]
+Saving to: ‘eA55_shhKko.mkv’
+
+eA55_shhKko.mkv     100%[===================>] 230.50M   976KB/s    in 4m 10s  
+
+2018-04-23 06:26:12 (946 KB/s) - ‘eA55_shhKko.mkv’ saved [241694291/241694291]
+
+--2018-04-23 06:26:12--  https://s3.amazonaws.com/ava-dataset/trainval/_eBah6c5kyA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 06:26:12--  https://s3.amazonaws.com/ava-dataset/trainval/Ecivp8t3MdY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.80.251
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.80.251|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261290576 (249M) [application/x-www-form-urlencoded]
+Saving to: ‘Ecivp8t3MdY.mkv’
+
+Ecivp8t3MdY.mkv     100%[===================>] 249.19M  1.06MB/s    in 3m 57s  
+
+2018-04-23 06:30:10 (1.05 MB/s) - ‘Ecivp8t3MdY.mkv’ saved [261290576/261290576]
+
+--2018-04-23 06:30:10--  https://s3.amazonaws.com/ava-dataset/trainval/Ekwy7wzLfjc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 06:30:10--  https://s3.amazonaws.com/ava-dataset/trainval/er7eeiJB6dI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.16.163
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.16.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219290053 (209M) [application/x-www-form-urlencoded]
+Saving to: ‘er7eeiJB6dI.mkv’
+
+er7eeiJB6dI.mkv     100%[===================>] 209.13M  1.25MB/s    in 3m 21s  
+
+2018-04-23 06:33:33 (1.04 MB/s) - ‘er7eeiJB6dI.mkv’ saved [219290053/219290053]
+
+--2018-04-23 06:33:33--  https://s3.amazonaws.com/ava-dataset/trainval/F3dPH6Xqf5M.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 06:33:33--  https://s3.amazonaws.com/ava-dataset/trainval/-FaXLcSFjUI.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.232.13
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.232.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383004224 (365M) [video/mp4]
+Saving to: ‘-FaXLcSFjUI.mp4’
+
+-FaXLcSFjUI.mp4     100%[===================>] 365.26M  1.32MB/s    in 6m 34s  
+
+2018-04-23 06:40:08 (950 KB/s) - ‘-FaXLcSFjUI.mp4’ saved [383004224/383004224]
+
+--2018-04-23 06:40:08--  https://s3.amazonaws.com/ava-dataset/trainval/fD6VkIRlIRI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.16.11
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 613087276 (585M) [application/x-www-form-urlencoded]
+Saving to: ‘fD6VkIRlIRI.mkv’
+
+fD6VkIRlIRI.mkv     100%[===================>] 584.69M   871KB/s    in 9m 24s  
+
+2018-04-23 06:49:33 (1.04 MB/s) - ‘fD6VkIRlIRI.mkv’ saved [613087276/613087276]
+
+--2018-04-23 06:49:33--  https://s3.amazonaws.com/ava-dataset/trainval/Feu1_8NazPE.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.0.67
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.0.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260569400 (248M) [video/mp4]
+Saving to: ‘Feu1_8NazPE.mp4’
+
+Feu1_8NazPE.mp4     100%[===================>] 248.50M   992KB/s    in 4m 6s   
+
+2018-04-23 06:53:39 (1.01 MB/s) - ‘Feu1_8NazPE.mp4’ saved [260569400/260569400]
+
+--2018-04-23 06:53:39--  https://s3.amazonaws.com/ava-dataset/trainval/fGgnNCbXZ20.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.16.67
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.16.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180418444 (172M) [video/mp4]
+Saving to: ‘fGgnNCbXZ20.mp4’
+
+fGgnNCbXZ20.mp4     100%[===================>] 172.06M   828KB/s    in 3m 18s  
+
+2018-04-23 06:56:59 (891 KB/s) - ‘fGgnNCbXZ20.mp4’ saved [180418444/180418444]
+
+--2018-04-23 06:56:59--  https://s3.amazonaws.com/ava-dataset/trainval/fNcxxBjEOgw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.228.235
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.228.235|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399084920 (381M) [application/x-www-form-urlencoded]
+Saving to: ‘fNcxxBjEOgw.mkv’
+
+fNcxxBjEOgw.mkv     100%[===================>] 380.60M  1.57MB/s    in 5m 55s  
+
+2018-04-23 07:02:55 (1.07 MB/s) - ‘fNcxxBjEOgw.mkv’ saved [399084920/399084920]
+
+--2018-04-23 07:02:55--  https://s3.amazonaws.com/ava-dataset/trainval/fpprSy6AzKk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.99.93
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.99.93|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 577916551 (551M) [application/x-www-form-urlencoded]
+Saving to: ‘fpprSy6AzKk.mkv’
+
+fpprSy6AzKk.mkv     100%[===================>] 551.14M  1.01MB/s    in 9m 10s  
+
+2018-04-23 07:12:06 (1.00 MB/s) - ‘fpprSy6AzKk.mkv’ saved [577916551/577916551]
+
+--2018-04-23 07:12:06--  https://s3.amazonaws.com/ava-dataset/trainval/fZs-yXm-uUs.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.205
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 460976170 (440M) [video/mp4]
+Saving to: ‘fZs-yXm-uUs.mp4’
+
+fZs-yXm-uUs.mp4     100%[===================>] 439.62M  1.05MB/s    in 7m 41s  
+
+2018-04-23 07:19:48 (976 KB/s) - ‘fZs-yXm-uUs.mp4’ saved [460976170/460976170]
+
+--2018-04-23 07:19:48--  https://s3.amazonaws.com/ava-dataset/trainval/g1wyIcLPbq0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 07:19:48--  https://s3.amazonaws.com/ava-dataset/trainval/G4qq1MRXCiY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.132.165
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.132.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204727729 (195M) [application/x-www-form-urlencoded]
+Saving to: ‘G4qq1MRXCiY.mkv’
+
+G4qq1MRXCiY.mkv     100%[===================>] 195.24M  1.10MB/s    in 3m 9s   
+
+2018-04-23 07:22:58 (1.03 MB/s) - ‘G4qq1MRXCiY.mkv’ saved [204727729/204727729]
+
+--2018-04-23 07:22:58--  https://s3.amazonaws.com/ava-dataset/trainval/G5Yr20A5z_Q.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 07:22:58--  https://s3.amazonaws.com/ava-dataset/trainval/GBXK_SyfisM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.131.181
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.131.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 460916114 (440M) [application/x-www-form-urlencoded]
+Saving to: ‘GBXK_SyfisM.mkv’
+
+GBXK_SyfisM.mkv     100%[===================>] 439.56M  1.49MB/s    in 6m 51s  
+
+2018-04-23 07:29:50 (1.07 MB/s) - ‘GBXK_SyfisM.mkv’ saved [460916114/460916114]
+
+--2018-04-23 07:29:50--  https://s3.amazonaws.com/ava-dataset/trainval/Gfdg_GcaNe8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 07:29:50--  https://s3.amazonaws.com/ava-dataset/trainval/gjasEUDkbuc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.82.202
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.82.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271121027 (259M) [application/x-www-form-urlencoded]
+Saving to: ‘gjasEUDkbuc.mkv’
+
+gjasEUDkbuc.mkv     100%[===================>] 258.56M  1.88MB/s    in 4m 10s  
+
+2018-04-23 07:34:00 (1.04 MB/s) - ‘gjasEUDkbuc.mkv’ saved [271121027/271121027]
+
+--2018-04-23 07:34:00--  https://s3.amazonaws.com/ava-dataset/trainval/gjdgj04FzR0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 07:34:00--  https://s3.amazonaws.com/ava-dataset/trainval/GozLjpMNADg.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.129.245
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.129.245|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1834818730 (1.7G) [application/x-www-form-urlencoded]
+Saving to: ‘GozLjpMNADg.mkv’
+
+GozLjpMNADg.mkv     100%[===================>]   1.71G  1.18MB/s    in 26m 30s 
+
+2018-04-23 08:00:32 (1.10 MB/s) - ‘GozLjpMNADg.mkv’ saved [1834818730/1834818730]
+
+--2018-04-23 08:00:32--  https://s3.amazonaws.com/ava-dataset/trainval/gqmmpoO1JrY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 08:00:32--  https://s3.amazonaws.com/ava-dataset/trainval/Gt61_Yekkgc.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.163.133
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.163.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326660841 (312M) [video/mp4]
+Saving to: ‘Gt61_Yekkgc.mp4’
+
+Gt61_Yekkgc.mp4     100%[===================>] 311.53M  1.16MB/s    in 5m 53s  
+
+2018-04-23 08:06:26 (903 KB/s) - ‘Gt61_Yekkgc.mp4’ saved [326660841/326660841]
+
+--2018-04-23 08:06:26--  https://s3.amazonaws.com/ava-dataset/trainval/Gvp-cj3bmIY.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 08:06:26--  https://s3.amazonaws.com/ava-dataset/trainval/hbYvDvJrpNk.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.81.75
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.81.75|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1106261390 (1.0G) [video/mp4]
+Saving to: ‘hbYvDvJrpNk.mp4’
+
+hbYvDvJrpNk.mp4     100%[===================>]   1.03G  1.04MB/s    in 19m 16s 
+
+2018-04-23 08:25:44 (934 KB/s) - ‘hbYvDvJrpNk.mp4’ saved [1106261390/1106261390]
+
+--2018-04-23 08:25:44--  https://s3.amazonaws.com/ava-dataset/trainval/hHgg9WI8dTk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.225.235
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.225.235|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228372522 (218M) [application/x-www-form-urlencoded]
+Saving to: ‘hHgg9WI8dTk.mkv’
+
+hHgg9WI8dTk.mkv     100%[===================>] 217.79M   859KB/s    in 4m 11s  
+
+2018-04-23 08:29:56 (890 KB/s) - ‘hHgg9WI8dTk.mkv’ saved [228372522/228372522]
+
+--2018-04-23 08:29:56--  https://s3.amazonaws.com/ava-dataset/trainval/Hi8QeP_VPu0.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.0.131
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.0.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 886888847 (846M) [application/x-www-form-urlencoded]
+Saving to: ‘Hi8QeP_VPu0.mkv’
+
+Hi8QeP_VPu0.mkv     100%[===================>] 845.80M  1.26MB/s    in 15m 27s 
+
+2018-04-23 08:45:24 (935 KB/s) - ‘Hi8QeP_VPu0.mkv’ saved [886888847/886888847]
+
+--2018-04-23 08:45:24--  https://s3.amazonaws.com/ava-dataset/trainval/HJzgJ9ZjvJk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.166.85
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.166.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278845658 (266M) [application/x-www-form-urlencoded]
+Saving to: ‘HJzgJ9ZjvJk.mkv’
+
+HJzgJ9ZjvJk.mkv     100%[===================>] 265.93M  1.06MB/s    in 5m 4s   
+
+2018-04-23 08:50:29 (894 KB/s) - ‘HJzgJ9ZjvJk.mkv’ saved [278845658/278845658]
+
+--2018-04-23 08:50:29--  https://s3.amazonaws.com/ava-dataset/trainval/HKjR70GCRPE.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.81.83
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.81.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 536726088 (512M) [video/mp4]
+Saving to: ‘HKjR70GCRPE.mp4’
+
+HKjR70GCRPE.mp4     100%[===================>] 511.86M   993KB/s    in 9m 7s   
+
+2018-04-23 08:59:38 (958 KB/s) - ‘HKjR70GCRPE.mp4’ saved [536726088/536726088]
+
+--2018-04-23 08:59:38--  https://s3.amazonaws.com/ava-dataset/trainval/Hscyg0vLKc8.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.101.165
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.101.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 509565678 (486M) [video/mp4]
+Saving to: ‘Hscyg0vLKc8.mp4’
+
+Hscyg0vLKc8.mp4     100%[===================>] 485.96M   568KB/s    in 9m 51s  
+
+2018-04-23 09:09:30 (842 KB/s) - ‘Hscyg0vLKc8.mp4’ saved [509565678/509565678]
+
+--2018-04-23 09:09:30--  https://s3.amazonaws.com/ava-dataset/trainval/HTYT2vF-j_w.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.101
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 382286589 (365M) [application/x-www-form-urlencoded]
+Saving to: ‘HTYT2vF-j_w.mkv’
+
+HTYT2vF-j_w.mkv     100%[===================>] 364.58M   429KB/s    in 7m 15s  
+
+2018-04-23 09:16:46 (858 KB/s) - ‘HTYT2vF-j_w.mkv’ saved [382286589/382286589]
+
+--2018-04-23 09:16:46--  https://s3.amazonaws.com/ava-dataset/trainval/HV0H6oc4Kvs.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.228.203
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.228.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 331591448 (316M) [application/x-www-form-urlencoded]
+Saving to: ‘HV0H6oc4Kvs.mkv’
+
+HV0H6oc4Kvs.mkv     100%[===================>] 316.23M   854KB/s    in 6m 8s   
+
+2018-04-23 09:22:56 (879 KB/s) - ‘HV0H6oc4Kvs.mkv’ saved [331591448/331591448]
+
+--2018-04-23 09:22:56--  https://s3.amazonaws.com/ava-dataset/trainval/HVAmkvLrthQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 09:22:56--  https://s3.amazonaws.com/ava-dataset/trainval/HymKCzQJbB8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 630810324 (602M) [application/x-www-form-urlencoded]
+Saving to: ‘HymKCzQJbB8.mkv’
+
+HymKCzQJbB8.mkv     100%[===================>] 601.59M   476KB/s    in 14m 9s  
+
+2018-04-23 09:37:06 (726 KB/s) - ‘HymKCzQJbB8.mkv’ saved [630810324/630810324]
+
+--2018-04-23 09:37:06--  https://s3.amazonaws.com/ava-dataset/trainval/I8j6Xq2B5ys.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.72.82
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.72.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 359999595 (343M) [video/mp4]
+Saving to: ‘I8j6Xq2B5ys.mp4’
+
+I8j6Xq2B5ys.mp4     100%[===================>] 343.32M  1.04MB/s    in 6m 34s  
+
+2018-04-23 09:43:41 (892 KB/s) - ‘I8j6Xq2B5ys.mp4’ saved [359999595/359999595]
+
+--2018-04-23 09:43:41--  https://s3.amazonaws.com/ava-dataset/trainval/Ie35yEssHko.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.66.43
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.66.43|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302579122 (289M) [application/x-www-form-urlencoded]
+Saving to: ‘Ie35yEssHko.mkv’
+
+Ie35yEssHko.mkv     100%[===================>] 288.56M   742KB/s    in 7m 0s   
+
+2018-04-23 09:50:43 (703 KB/s) - ‘Ie35yEssHko.mkv’ saved [302579122/302579122]
+
+--2018-04-23 09:50:43--  https://s3.amazonaws.com/ava-dataset/trainval/-IELREHX_js.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.11.115
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.11.115|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125710755 (120M) [video/mp4]
+Saving to: ‘-IELREHX_js.mp4’
+
+-IELREHX_js.mp4     100%[===================>] 119.89M   585KB/s    in 5m 38s  
+
+2018-04-23 09:56:22 (363 KB/s) - ‘-IELREHX_js.mp4’ saved [125710755/125710755]
+
+--2018-04-23 09:56:22--  https://s3.amazonaws.com/ava-dataset/trainval/IKdBLciu_-A.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 551708510 (526M) [video/mp4]
+Saving to: ‘IKdBLciu_-A.mp4’
+
+IKdBLciu_-A.mp4     100%[===================>] 526.15M   312KB/s    in 30m 48s 
+
+2018-04-23 10:27:11 (292 KB/s) - ‘IKdBLciu_-A.mp4’ saved [551708510/551708510]
+
+--2018-04-23 10:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/iSlDMboCSao.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.99.149
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.99.149|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 863626444 (824M) [application/x-www-form-urlencoded]
+Saving to: ‘iSlDMboCSao.mkv’
+
+iSlDMboCSao.mkv     100%[===================>] 823.62M  2.47MB/s    in 18m 44s 
+
+2018-04-23 10:45:56 (750 KB/s) - ‘iSlDMboCSao.mkv’ saved [863626444/863626444]
+
+--2018-04-23 10:45:56--  https://s3.amazonaws.com/ava-dataset/trainval/_ithRWANKB0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.1.67
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.1.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 768626825 (733M) [video/mp4]
+Saving to: ‘_ithRWANKB0.mp4’
+
+_ithRWANKB0.mp4     100%[===================>] 733.02M  2.16MB/s    in 5m 4s   
+
+2018-04-23 10:51:01 (2.41 MB/s) - ‘_ithRWANKB0.mp4’ saved [768626825/768626825]
+
+--2018-04-23 10:51:01--  https://s3.amazonaws.com/ava-dataset/trainval/IuPC-z-M9u8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.228.51
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.228.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 590969887 (564M) [application/x-www-form-urlencoded]
+Saving to: ‘IuPC-z-M9u8.mkv’
+
+IuPC-z-M9u8.mkv     100%[===================>] 563.59M  3.51MB/s    in 6m 55s  
+
+2018-04-23 10:57:57 (1.36 MB/s) - ‘IuPC-z-M9u8.mkv’ saved [590969887/590969887]
+
+--2018-04-23 10:57:57--  https://s3.amazonaws.com/ava-dataset/trainval/IzvOYVMltkI.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.157
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280041475 (267M) [video/mp4]
+Saving to: ‘IzvOYVMltkI.mp4’
+
+IzvOYVMltkI.mp4     100%[===================>] 267.07M  1.27MB/s    in 3m 22s  
+
+2018-04-23 11:01:21 (1.32 MB/s) - ‘IzvOYVMltkI.mp4’ saved [280041475/280041475]
+
+--2018-04-23 11:01:21--  https://s3.amazonaws.com/ava-dataset/trainval/J1jDc2rTJlg.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.86.21
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.86.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 461314007 (440M) [application/x-www-form-urlencoded]
+Saving to: ‘J1jDc2rTJlg.mkv’
+
+J1jDc2rTJlg.mkv     100%[===================>] 439.94M   704KB/s    in 8m 59s  
+
+2018-04-23 11:10:21 (836 KB/s) - ‘J1jDc2rTJlg.mkv’ saved [461314007/461314007]
+
+--2018-04-23 11:10:21--  https://s3.amazonaws.com/ava-dataset/trainval/j35JnR0Q7Es.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 11:10:21--  https://s3.amazonaws.com/ava-dataset/trainval/J4bt4y9ShTA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.18.43
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.18.43|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 756637346 (722M) [application/x-www-form-urlencoded]
+Saving to: ‘J4bt4y9ShTA.mkv’
+
+J4bt4y9ShTA.mkv     100%[===================>] 721.58M   376KB/s    in 28m 31s 
+
+2018-04-23 11:38:53 (432 KB/s) - ‘J4bt4y9ShTA.mkv’ saved [756637346/756637346]
+
+--2018-04-23 11:38:53--  https://s3.amazonaws.com/ava-dataset/trainval/j5jmjhGBW44.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.21.29
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.21.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 872299176 (832M) [application/x-www-form-urlencoded]
+Saving to: ‘j5jmjhGBW44.mkv’
+
+j5jmjhGBW44.mkv     100%[===================>] 831.89M  2.06MB/s    in 15m 55s 
+
+2018-04-23 11:54:49 (892 KB/s) - ‘j5jmjhGBW44.mkv’ saved [872299176/872299176]
+
+--2018-04-23 11:54:49--  https://s3.amazonaws.com/ava-dataset/trainval/jBs_XYHI7gM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.131.61
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.131.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 442091177 (422M) [application/x-www-form-urlencoded]
+Saving to: ‘jBs_XYHI7gM.mkv’
+
+jBs_XYHI7gM.mkv     100%[===================>] 421.61M  83.2KB/s    in 42m 2s  
+
+2018-04-23 12:36:52 (171 KB/s) - ‘jBs_XYHI7gM.mkv’ saved [442091177/442091177]
+
+--2018-04-23 12:36:52--  https://s3.amazonaws.com/ava-dataset/trainval/jE0S8gYWftE.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.165.253
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.165.253|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462288591 (441M) [video/webm]
+Saving to: ‘jE0S8gYWftE.webm’
+
+jE0S8gYWftE.webm    100%[===================>] 440.87M   376KB/s    in 10m 4s  
+
+2018-04-23 12:46:57 (748 KB/s) - ‘jE0S8gYWftE.webm’ saved [462288591/462288591]
+
+--2018-04-23 12:46:57--  https://s3.amazonaws.com/ava-dataset/trainval/jgAwJ0RqmYg.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.20.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.20.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 965750551 (921M) [video/mp4]
+Saving to: ‘jgAwJ0RqmYg.mp4’
+
+jgAwJ0RqmYg.mp4     100%[===================>] 921.01M   683KB/s    in 28m 48s 
+
+2018-04-23 13:15:46 (546 KB/s) - ‘jgAwJ0RqmYg.mp4’ saved [965750551/965750551]
+
+--2018-04-23 13:15:46--  https://s3.amazonaws.com/ava-dataset/trainval/jI0HIlSsa3s.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.40.138
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.40.138|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209455016 (200M) [application/x-www-form-urlencoded]
+Saving to: ‘jI0HIlSsa3s.mkv’
+
+jI0HIlSsa3s.mkv     100%[===================>] 199.75M   326KB/s    in 9m 45s  
+
+2018-04-23 13:25:33 (350 KB/s) - ‘jI0HIlSsa3s.mkv’ saved [209455016/209455016]
+
+--2018-04-23 13:25:33--  https://s3.amazonaws.com/ava-dataset/trainval/JNb4nWexD0I.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.83.2
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.83.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302799293 (289M) [application/x-www-form-urlencoded]
+Saving to: ‘JNb4nWexD0I.mkv’
+
+JNb4nWexD0I.mkv     100%[===================>] 288.77M   408KB/s    in 13m 8s  
+
+2018-04-23 13:38:42 (375 KB/s) - ‘JNb4nWexD0I.mkv’ saved [302799293/302799293]
+
+--2018-04-23 13:38:42--  https://s3.amazonaws.com/ava-dataset/trainval/jqZpiHlJUig.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.17.187
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.17.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1548128156 (1.4G) [application/x-www-form-urlencoded]
+Saving to: ‘jqZpiHlJUig.mkv’
+
+jqZpiHlJUig.mkv     100%[===================>]   1.44G  2.56MB/s    in 37m 19s 
+
+2018-04-23 14:16:02 (675 KB/s) - ‘jqZpiHlJUig.mkv’ saved [1548128156/1548128156]
+
+--2018-04-23 14:16:02--  https://s3.amazonaws.com/ava-dataset/trainval/kAsz-76DTDE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.21.29
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.21.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156284775 (149M) [application/x-www-form-urlencoded]
+Saving to: ‘kAsz-76DTDE.mkv’
+
+kAsz-76DTDE.mkv     100%[===================>] 149.04M  4.23MB/s    in 69s     
+
+2018-04-23 14:17:13 (2.15 MB/s) - ‘kAsz-76DTDE.mkv’ saved [156284775/156284775]
+
+--2018-04-23 14:17:13--  https://s3.amazonaws.com/ava-dataset/trainval/Kb1fduj-jdY.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.99.173
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.99.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 961919948 (917M) [video/mp4]
+Saving to: ‘Kb1fduj-jdY.mp4’
+
+Kb1fduj-jdY.mp4     100%[===================>] 917.36M  3.16MB/s    in 5m 58s  
+
+2018-04-23 14:23:12 (2.56 MB/s) - ‘Kb1fduj-jdY.mp4’ saved [961919948/961919948]
+
+--2018-04-23 14:23:12--  https://s3.amazonaws.com/ava-dataset/trainval/KHHgQ_Pe4cI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.101.21
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.101.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 885690634 (845M) [application/x-www-form-urlencoded]
+Saving to: ‘KHHgQ_Pe4cI.mkv’
+
+KHHgQ_Pe4cI.mkv     100%[===================>] 844.66M   149KB/s    in 20m 26s 
+
+2018-04-23 14:43:40 (705 KB/s) - ‘KHHgQ_Pe4cI.mkv’ saved [885690634/885690634]
+
+--2018-04-23 14:43:40--  https://s3.amazonaws.com/ava-dataset/trainval/KIy2a-nejxg.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.230.245
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.230.245|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278624254 (266M) [video/mp4]
+Saving to: ‘KIy2a-nejxg.mp4’
+
+KIy2a-nejxg.mp4     100%[===================>] 265.72M  2.81MB/s    in 17m 21s 
+
+2018-04-23 15:01:02 (261 KB/s) - ‘KIy2a-nejxg.mp4’ saved [278624254/278624254]
+
+--2018-04-23 15:01:02--  https://s3.amazonaws.com/ava-dataset/trainval/kLDpP9QEVBs.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.98.93
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.98.93|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 901379189 (860M) [video/mp4]
+Saving to: ‘kLDpP9QEVBs.mp4’
+
+kLDpP9QEVBs.mp4     100%[===================>] 859.62M  88.2KB/s    in 31m 17s 
+
+2018-04-23 15:32:20 (469 KB/s) - ‘kLDpP9QEVBs.mp4’ saved [901379189/901379189]
+
+--2018-04-23 15:32:20--  https://s3.amazonaws.com/ava-dataset/trainval/kMy-6RtoOVU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 15:32:20--  https://s3.amazonaws.com/ava-dataset/trainval/kplbKz3_fZk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.100.165
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.100.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 784269716 (748M) [application/x-www-form-urlencoded]
+Saving to: ‘kplbKz3_fZk.mkv’
+
+kplbKz3_fZk.mkv     100%[===================>] 747.94M  2.06MB/s    in 11m 15s 
+
+2018-04-23 15:43:37 (1.11 MB/s) - ‘kplbKz3_fZk.mkv’ saved [784269716/784269716]
+
+--2018-04-23 15:43:37--  https://s3.amazonaws.com/ava-dataset/trainval/Ksd1JQFHYWA.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.165.237
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.165.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 873503905 (833M) [video/mp4]
+Saving to: ‘Ksd1JQFHYWA.mp4’
+
+Ksd1JQFHYWA.mp4     100%[===================>] 833.04M  4.09MB/s    in 46m 36s 
+
+2018-04-23 16:30:14 (305 KB/s) - ‘Ksd1JQFHYWA.mp4’ saved [873503905/873503905]
+
+--2018-04-23 16:30:14--  https://s3.amazonaws.com/ava-dataset/trainval/K_SpqDJnlps.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:30:14--  https://s3.amazonaws.com/ava-dataset/trainval/KVq6If6ozMY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.65.43
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.65.43|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 511399278 (488M) [application/x-www-form-urlencoded]
+Saving to: ‘KVq6If6ozMY.mkv’
+
+KVq6If6ozMY.mkv     100%[===================>] 487.71M  1.48MB/s    in 4m 48s  
+
+2018-04-23 16:35:03 (1.70 MB/s) - ‘KVq6If6ozMY.mkv’ saved [511399278/511399278]
+
+--2018-04-23 16:35:03--  https://s3.amazonaws.com/ava-dataset/trainval/KWoSGtglCms.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:35:03--  https://s3.amazonaws.com/ava-dataset/trainval/l2XO3tQk8lI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:35:03--  https://s3.amazonaws.com/ava-dataset/trainval/lDmLcWWBp1E.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:35:03--  https://s3.amazonaws.com/ava-dataset/trainval/Lg1jOu8cUBM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:35:03--  https://s3.amazonaws.com/ava-dataset/trainval/LgBQlW6OTr0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.21.85
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.21.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 414151933 (395M) [video/mp4]
+Saving to: ‘LgBQlW6OTr0.mp4’
+
+LgBQlW6OTr0.mp4     100%[===================>] 394.97M  2.09MB/s    in 3m 47s  
+
+2018-04-23 16:38:51 (1.74 MB/s) - ‘LgBQlW6OTr0.mp4’ saved [414151933/414151933]
+
+--2018-04-23 16:38:51--  https://s3.amazonaws.com/ava-dataset/trainval/LIavUJVrXaI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:38:51--  https://s3.amazonaws.com/ava-dataset/trainval/l-jxh8gpxuY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:38:51--  https://s3.amazonaws.com/ava-dataset/trainval/LrDT25hmApw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:38:51--  https://s3.amazonaws.com/ava-dataset/trainval/lT1zdTL-3SM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:38:51--  https://s3.amazonaws.com/ava-dataset/trainval/lWXhqIAvarw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:38:51--  https://s3.amazonaws.com/ava-dataset/trainval/M6cgEs9JgDo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-23 16:38:52--  https://s3.amazonaws.com/ava-dataset/trainval/Ma2hgTmveKQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.17.91
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.17.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 672110347 (641M) [application/x-www-form-urlencoded]
+Saving to: ‘Ma2hgTmveKQ.mkv’
+
+Ma2hgTmveKQ.mkv      55%[==========>         ] 352.62M   276KB/s    in 5m 56s  
+
+2018-04-23 16:49:50 (1014 KB/s) - Read error at byte 369751636/672110347 (Connection reset by peer). Retrying.
+
+--2018-04-23 16:49:51--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/Ma2hgTmveKQ.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.17.91|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 672110347 (641M), 302358711 (288M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘Ma2hgTmveKQ.mkv’
+
+Ma2hgTmveKQ.mkv     100%[+++++++++++========>] 640.97M   238KB/s    in 19m 38s 
+
+2018-04-23 17:09:30 (251 KB/s) - ‘Ma2hgTmveKQ.mkv’ saved [672110347/672110347]
+
+--2018-04-23 17:09:30--  https://s3.amazonaws.com/ava-dataset/trainval/_mAfwH6i90E.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.97.125
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 389374674 (371M) [application/x-www-form-urlencoded]
+Saving to: ‘_mAfwH6i90E.mkv’
+
+_mAfwH6i90E.mkv     100%[===================>] 371.34M   410KB/s    in 28m 41s 
+
+2018-04-23 17:38:14 (221 KB/s) - ‘_mAfwH6i90E.mkv’ saved [389374674/389374674]
+
+--2018-04-23 17:38:14--  https://s3.amazonaws.com/ava-dataset/trainval/mfsbYdLx9wE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.120.18
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.120.18|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 566101721 (540M) [application/x-www-form-urlencoded]
+Saving to: ‘mfsbYdLx9wE.mkv’
+
+mfsbYdLx9wE.mkv      12%[=>                  ]  67.39M  80.8KB/s    in 2m 44s  
+
+2018-04-23 17:46:00 (422 KB/s) - Read error at byte 70668596/566101721 (Connection reset by peer). Retrying.
+
+--2018-04-23 17:46:01--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/mfsbYdLx9wE.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.120.18|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 566101721 (540M), 495433125 (472M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘mfsbYdLx9wE.mkv’
+
+mfsbYdLx9wE.mkv     100%[++=================>] 539.88M   354KB/s    in 19m 3s  
+
+2018-04-23 18:05:04 (423 KB/s) - ‘mfsbYdLx9wE.mkv’ saved [566101721/566101721]
+
+--2018-04-23 18:05:04--  https://s3.amazonaws.com/ava-dataset/trainval/miB-wo2PfLI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.29
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385300186 (367M) [application/x-www-form-urlencoded]
+Saving to: ‘miB-wo2PfLI.mkv’
+
+miB-wo2PfLI.mkv     100%[===================>] 367.45M   238KB/s    in 21m 40s 
+
+2018-04-23 18:26:50 (290 KB/s) - ‘miB-wo2PfLI.mkv’ saved [385300186/385300186]
+
+--2018-04-23 18:26:50--  https://s3.amazonaws.com/ava-dataset/trainval/mkcDANJjDcM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.82.60
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.82.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1564152589 (1.5G) [application/x-www-form-urlencoded]
+Saving to: ‘mkcDANJjDcM.mkv’
+
+mkcDANJjDcM.mkv      33%[=====>              ] 494.08M  54.0KB/s    in 50m 13s 
+
+2018-04-23 19:22:06 (168 KB/s) - Read error at byte 518079083/1564152589 (Connection reset by peer). Retrying.
+
+--2018-04-23 19:22:07--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/mkcDANJjDcM.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.82.60|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 1564152589 (1.5G), 1046073506 (998M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘mkcDANJjDcM.mkv’
+
+mkcDANJjDcM.mkv     100%[++++++=============>]   1.46G   214KB/s    in 2h 0m   
+
+2018-04-23 21:23:05 (141 KB/s) - ‘mkcDANJjDcM.mkv’ saved [1564152589/1564152589]
+
+--2018-04-23 21:23:05--  https://s3.amazonaws.com/ava-dataset/trainval/N0Dt9i9IUNg.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.48.147
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.48.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 446755307 (426M) [application/x-www-form-urlencoded]
+Saving to: ‘N0Dt9i9IUNg.mkv’
+
+N0Dt9i9IUNg.mkv     100%[===================>] 426.06M  84.8KB/s    in 61m 28s 
+
+2018-04-23 22:24:35 (118 KB/s) - ‘N0Dt9i9IUNg.mkv’ saved [446755307/446755307]
+
+--2018-04-23 22:24:35--  https://s3.amazonaws.com/ava-dataset/trainval/N1K2bEZLL_A.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.165.181
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.165.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289856190 (276M) [application/x-www-form-urlencoded]
+Saving to: ‘N1K2bEZLL_A.mkv’
+
+N1K2bEZLL_A.mkv     100%[===================>] 276.43M  82.6KB/s    in 59m 45s 
+
+2018-04-23 23:24:22 (79.0 KB/s) - ‘N1K2bEZLL_A.mkv’ saved [289856190/289856190]
+
+--2018-04-23 23:24:22--  https://s3.amazonaws.com/ava-dataset/trainval/N5UD8FGzDek.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.100.141
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.100.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139902120 (133M) [application/x-www-form-urlencoded]
+Saving to: ‘N5UD8FGzDek.mkv’
+
+N5UD8FGzDek.mkv       8%[>                   ]  11.39M  76.0KB/s    in 1m 45s  
+
+2018-04-23 23:31:10 (111 KB/s) - Read error at byte 11941485/139902120 (Connection reset by peer). Retrying.
+
+--2018-04-23 23:31:11--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/N5UD8FGzDek.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.100.141|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 139902120 (133M), 127960635 (122M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘N5UD8FGzDek.mkv’
+
+N5UD8FGzDek.mkv     100%[+==================>] 133.42M  80.3KB/s    in 31m 45s 
+
+2018-04-24 00:02:58 (65.6 KB/s) - ‘N5UD8FGzDek.mkv’ saved [139902120/139902120]
+
+--2018-04-24 00:02:58--  https://s3.amazonaws.com/ava-dataset/trainval/N7baJsMszJ0.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.162.45
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.162.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 519233704 (495M) [application/x-www-form-urlencoded]
+Saving to: ‘N7baJsMszJ0.mkv’
+
+N7baJsMszJ0.mkv      21%[===>                ] 104.47M  15.1KB/s    in 28m 2s  
+
+2018-04-24 00:36:03 (63.6 KB/s) - Read error at byte 109548140/519233704 (Connection reset by peer). Retrying.
+
+--2018-04-24 00:36:04--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/N7baJsMszJ0.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.162.45|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 519233704 (495M), 409685564 (391M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘N7baJsMszJ0.mkv’
+
+N7baJsMszJ0.mkv      22%[++++                ] 112.25M  13.3KB/s    in 3m 41s  
+
+2018-04-24 00:44:48 (36.0 KB/s) - Read error at byte 117703615/519233704 (Connection reset by peer). Retrying.
+
+--2018-04-24 00:44:50--  (try: 3)  https://s3.amazonaws.com/ava-dataset/trainval/N7baJsMszJ0.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.162.45|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 519233704 (495M), 401530089 (383M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘N7baJsMszJ0.mkv’
+
+N7baJsMszJ0.mkv     100%[++++===============>] 495.18M   245KB/s    in 70m 43s 
+
+2018-04-24 01:55:35 (92.4 KB/s) - ‘N7baJsMszJ0.mkv’ saved [519233704/519233704]
+
+--2018-04-24 01:55:35--  https://s3.amazonaws.com/ava-dataset/trainval/NEQ7Wpf-EtI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.128.69
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.128.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309996323 (296M) [application/x-www-form-urlencoded]
+Saving to: ‘NEQ7Wpf-EtI.mkv’
+
+NEQ7Wpf-EtI.mkv     100%[===================>] 295.63M  78.6KB/s    in 28m 27s 
+
+2018-04-24 02:24:03 (177 KB/s) - ‘NEQ7Wpf-EtI.mkv’ saved [309996323/309996323]
+
+--2018-04-24 02:24:03--  https://s3.amazonaws.com/ava-dataset/trainval/nlinqZPgvVk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.93
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.93|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 370790453 (354M) [application/x-www-form-urlencoded]
+Saving to: ‘nlinqZPgvVk.mkv’
+
+nlinqZPgvVk.mkv     100%[===================>] 353.61M   253KB/s    in 27m 44s 
+
+2018-04-24 02:51:48 (218 KB/s) - ‘nlinqZPgvVk.mkv’ saved [370790453/370790453]
+
+--2018-04-24 02:51:48--  https://s3.amazonaws.com/ava-dataset/trainval/NO2esmws190.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.64.67
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.64.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 437553409 (417M) [application/x-www-form-urlencoded]
+Saving to: ‘NO2esmws190.mkv’
+
+NO2esmws190.mkv     100%[===================>] 417.28M   296KB/s    in 19m 5s  
+
+2018-04-24 03:10:55 (373 KB/s) - ‘NO2esmws190.mkv’ saved [437553409/437553409]
+
+--2018-04-24 03:10:55--  https://s3.amazonaws.com/ava-dataset/trainval/o4xQ-BEa3Ss.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 03:10:55--  https://s3.amazonaws.com/ava-dataset/trainval/O5m_0Yay4EU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.98.205
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.98.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308905106 (295M) [application/x-www-form-urlencoded]
+Saving to: ‘O5m_0Yay4EU.mkv’
+
+O5m_0Yay4EU.mkv     100%[===================>] 294.59M   149KB/s    in 17m 46s 
+
+2018-04-24 03:28:42 (283 KB/s) - ‘O5m_0Yay4EU.mkv’ saved [308905106/308905106]
+
+--2018-04-24 03:28:42--  https://s3.amazonaws.com/ava-dataset/trainval/oD_wxyTHJ2I.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.162.53
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.162.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 571609703 (545M) [video/mp4]
+Saving to: ‘oD_wxyTHJ2I.mp4’
+
+oD_wxyTHJ2I.mp4     100%[===================>] 545.13M   989KB/s    in 11m 11s 
+
+2018-04-24 03:39:55 (832 KB/s) - ‘oD_wxyTHJ2I.mp4’ saved [571609703/571609703]
+
+--2018-04-24 03:39:55--  https://s3.amazonaws.com/ava-dataset/trainval/OfMdakd4bHI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.97.173
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277283412 (264M) [application/x-www-form-urlencoded]
+Saving to: ‘OfMdakd4bHI.mkv’
+
+OfMdakd4bHI.mkv     100%[===================>] 264.44M   672KB/s    in 6m 49s  
+
+2018-04-24 03:46:45 (662 KB/s) - ‘OfMdakd4bHI.mkv’ saved [277283412/277283412]
+
+--2018-04-24 03:46:45--  https://s3.amazonaws.com/ava-dataset/trainval/OGNnUvJq9RI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 03:46:45--  https://s3.amazonaws.com/ava-dataset/trainval/oifTDWZvOhY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.134.109
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.134.109|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363099888 (346M) [application/x-www-form-urlencoded]
+Saving to: ‘oifTDWZvOhY.mkv’
+
+oifTDWZvOhY.mkv     100%[===================>] 346.28M   820KB/s    in 9m 4s   
+
+2018-04-24 03:55:50 (651 KB/s) - ‘oifTDWZvOhY.mkv’ saved [363099888/363099888]
+
+--2018-04-24 03:55:50--  https://s3.amazonaws.com/ava-dataset/trainval/oITFHwzfw_k.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 03:55:50--  https://s3.amazonaws.com/ava-dataset/trainval/om_83F5VwTQ.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.157
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252321535 (241M) [video/mp4]
+Saving to: ‘om_83F5VwTQ.mp4’
+
+om_83F5VwTQ.mp4     100%[===================>] 240.63M   831KB/s    in 5m 57s  
+
+2018-04-24 04:01:48 (691 KB/s) - ‘om_83F5VwTQ.mp4’ saved [252321535/252321535]
+
+--2018-04-24 04:01:48--  https://s3.amazonaws.com/ava-dataset/trainval/O_NYCUhZ9zw.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.16.107
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.16.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247668017 (236M) [video/mp4]
+Saving to: ‘O_NYCUhZ9zw.mp4’
+
+O_NYCUhZ9zw.mp4     100%[===================>] 236.19M   673KB/s    in 4m 28s  
+
+2018-04-24 04:06:17 (903 KB/s) - ‘O_NYCUhZ9zw.mp4’ saved [247668017/247668017]
+
+--2018-04-24 04:06:17--  https://s3.amazonaws.com/ava-dataset/trainval/oq_bufAhyl8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.1.219
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.1.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192242351 (183M) [application/x-www-form-urlencoded]
+Saving to: ‘oq_bufAhyl8.mkv’
+
+oq_bufAhyl8.mkv     100%[===================>] 183.34M   425KB/s    in 3m 19s  
+
+2018-04-24 04:09:38 (942 KB/s) - ‘oq_bufAhyl8.mkv’ saved [192242351/192242351]
+
+--2018-04-24 04:09:38--  https://s3.amazonaws.com/ava-dataset/trainval/OS74pZ0aHf0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.165.45
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.165.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377816903 (360M) [video/mp4]
+Saving to: ‘OS74pZ0aHf0.mp4’
+
+OS74pZ0aHf0.mp4     100%[===================>] 360.31M  1.20MB/s    in 5m 54s  
+
+2018-04-24 04:15:33 (1.02 MB/s) - ‘OS74pZ0aHf0.mp4’ saved [377816903/377816903]
+
+--2018-04-24 04:15:33--  https://s3.amazonaws.com/ava-dataset/trainval/Ov0za6Xb1LM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.163.117
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.163.117|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1050176898 (1002M) [application/x-www-form-urlencoded]
+Saving to: ‘Ov0za6Xb1LM.mkv’
+
+Ov0za6Xb1LM.mkv     100%[===================>]   1002M   955KB/s    in 17m 15s 
+
+2018-04-24 04:32:50 (990 KB/s) - ‘Ov0za6Xb1LM.mkv’ saved [1050176898/1050176898]
+
+--2018-04-24 04:32:50--  https://s3.amazonaws.com/ava-dataset/trainval/oWhvucAskhk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 04:32:50--  https://s3.amazonaws.com/ava-dataset/trainval/-OyDO1g74vc.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.66.19
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.66.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223253723 (213M) [video/mp4]
+Saving to: ‘-OyDO1g74vc.mp4’
+
+-OyDO1g74vc.mp4     100%[===================>] 212.91M   549KB/s    in 5m 50s  
+
+2018-04-24 04:38:41 (624 KB/s) - ‘-OyDO1g74vc.mp4’ saved [223253723/223253723]
+
+--2018-04-24 04:38:41--  https://s3.amazonaws.com/ava-dataset/trainval/P60OxWahxBQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.85.213
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.85.213|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 846462318 (807M) [application/x-www-form-urlencoded]
+Saving to: ‘P60OxWahxBQ.mkv’
+
+P60OxWahxBQ.mkv     100%[===================>] 807.25M  1.08MB/s    in 13m 56s 
+
+2018-04-24 04:52:38 (989 KB/s) - ‘P60OxWahxBQ.mkv’ saved [846462318/846462318]
+
+--2018-04-24 04:52:38--  https://s3.amazonaws.com/ava-dataset/trainval/P90hF2S1JzA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.65.11
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.65.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 503041690 (480M) [application/x-www-form-urlencoded]
+Saving to: ‘P90hF2S1JzA.mkv’
+
+P90hF2S1JzA.mkv     100%[===================>] 479.74M  1.48MB/s    in 7m 9s   
+
+2018-04-24 04:59:48 (1.12 MB/s) - ‘P90hF2S1JzA.mkv’ saved [503041690/503041690]
+
+--2018-04-24 04:59:48--  https://s3.amazonaws.com/ava-dataset/trainval/PcFEhUKhN6g.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.205
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326469392 (311M) [application/x-www-form-urlencoded]
+Saving to: ‘PcFEhUKhN6g.mkv’
+
+PcFEhUKhN6g.mkv     100%[===================>] 311.34M   804KB/s    in 5m 13s  
+
+2018-04-24 05:05:03 (1018 KB/s) - ‘PcFEhUKhN6g.mkv’ saved [326469392/326469392]
+
+--2018-04-24 05:05:03--  https://s3.amazonaws.com/ava-dataset/trainval/pGP_oIdKmRY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.128.61
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.128.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 524877009 (501M) [application/x-www-form-urlencoded]
+Saving to: ‘pGP_oIdKmRY.mkv’
+
+pGP_oIdKmRY.mkv     100%[===================>] 500.56M  1.09MB/s    in 8m 9s   
+
+2018-04-24 05:13:13 (1.02 MB/s) - ‘pGP_oIdKmRY.mkv’ saved [524877009/524877009]
+
+--2018-04-24 05:13:13--  https://s3.amazonaws.com/ava-dataset/trainval/phrYEKv0rmw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.18.251
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.18.251|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 696881672 (665M) [application/x-www-form-urlencoded]
+Saving to: ‘phrYEKv0rmw.mkv’
+
+phrYEKv0rmw.mkv     100%[===================>] 664.60M  1.52MB/s    in 10m 0s  
+
+2018-04-24 05:23:14 (1.11 MB/s) - ‘phrYEKv0rmw.mkv’ saved [696881672/696881672]
+
+--2018-04-24 05:23:14--  https://s3.amazonaws.com/ava-dataset/trainval/phVLLTMzmKk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.32.131
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.32.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 716540708 (683M) [application/x-www-form-urlencoded]
+Saving to: ‘phVLLTMzmKk.mkv’
+
+phVLLTMzmKk.mkv     100%[===================>] 683.35M  1.02MB/s    in 11m 26s 
+
+2018-04-24 05:34:42 (1020 KB/s) - ‘phVLLTMzmKk.mkv’ saved [716540708/716540708]
+
+--2018-04-24 05:34:42--  https://s3.amazonaws.com/ava-dataset/trainval/pieVIsGmLsc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.128.125
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.128.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 568681577 (542M) [application/x-www-form-urlencoded]
+Saving to: ‘pieVIsGmLsc.mkv’
+
+pieVIsGmLsc.mkv     100%[===================>] 542.34M  1.12MB/s    in 9m 14s  
+
+2018-04-24 05:43:57 (1002 KB/s) - ‘pieVIsGmLsc.mkv’ saved [568681577/568681577]
+
+--2018-04-24 05:43:57--  https://s3.amazonaws.com/ava-dataset/trainval/piYxcrMxVPw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.228.67
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.228.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351143765 (335M) [application/x-www-form-urlencoded]
+Saving to: ‘piYxcrMxVPw.mkv’
+
+piYxcrMxVPw.mkv     100%[===================>] 334.88M  1018KB/s    in 5m 40s  
+
+2018-04-24 05:49:38 (1010 KB/s) - ‘piYxcrMxVPw.mkv’ saved [351143765/351143765]
+
+--2018-04-24 05:49:38--  https://s3.amazonaws.com/ava-dataset/trainval/plkJ45_-pMk.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.65.99
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.65.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240601963 (229M) [video/mp4]
+Saving to: ‘plkJ45_-pMk.mp4’
+
+plkJ45_-pMk.mp4     100%[===================>] 229.46M   848KB/s    in 4m 21s  
+
+2018-04-24 05:54:00 (902 KB/s) - ‘plkJ45_-pMk.mp4’ saved [240601963/240601963]
+
+--2018-04-24 05:54:00--  https://s3.amazonaws.com/ava-dataset/trainval/PmElx9ZVByw.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.227.59
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.227.59|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 452297489 (431M) [video/mp4]
+Saving to: ‘PmElx9ZVByw.mp4’
+
+PmElx9ZVByw.mp4     100%[===================>] 431.34M   861KB/s    in 7m 21s  
+
+2018-04-24 06:01:22 (1001 KB/s) - ‘PmElx9ZVByw.mp4’ saved [452297489/452297489]
+
+--2018-04-24 06:01:22--  https://s3.amazonaws.com/ava-dataset/trainval/PNZQ2UJfyQE.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.40.26
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.40.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254046302 (242M) [video/mp4]
+Saving to: ‘PNZQ2UJfyQE.mp4’
+
+PNZQ2UJfyQE.mp4     100%[===================>] 242.28M   563KB/s    in 4m 33s  
+
+2018-04-24 06:05:56 (910 KB/s) - ‘PNZQ2UJfyQE.mp4’ saved [254046302/254046302]
+
+--2018-04-24 06:05:56--  https://s3.amazonaws.com/ava-dataset/trainval/QaIMUi-elFo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.134.101
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.134.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 469785844 (448M) [application/x-www-form-urlencoded]
+Saving to: ‘QaIMUi-elFo.mkv’
+
+QaIMUi-elFo.mkv     100%[===================>] 448.02M   799KB/s    in 8m 7s   
+
+2018-04-24 06:14:05 (942 KB/s) - ‘QaIMUi-elFo.mkv’ saved [469785844/469785844]
+
+--2018-04-24 06:14:05--  https://s3.amazonaws.com/ava-dataset/trainval/qBUu7cy-5Iw.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 06:14:05--  https://s3.amazonaws.com/ava-dataset/trainval/QCLQYnt3aMo.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 06:14:05--  https://s3.amazonaws.com/ava-dataset/trainval/QD3L10bUnBo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.227.35
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.227.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 716868342 (684M) [application/x-www-form-urlencoded]
+Saving to: ‘QD3L10bUnBo.mkv’
+
+QD3L10bUnBo.mkv     100%[===================>] 683.66M  1.08MB/s    in 11m 57s 
+
+2018-04-24 06:26:03 (976 KB/s) - ‘QD3L10bUnBo.mkv’ saved [716868342/716868342]
+
+--2018-04-24 06:26:03--  https://s3.amazonaws.com/ava-dataset/trainval/QJzocCGLdHU.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.81.67
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.81.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151936340 (145M) [video/mp4]
+Saving to: ‘QJzocCGLdHU.mp4’
+
+QJzocCGLdHU.mp4     100%[===================>] 144.90M  1.18MB/s    in 2m 32s  
+
+2018-04-24 06:28:36 (979 KB/s) - ‘QJzocCGLdHU.mp4’ saved [151936340/151936340]
+
+--2018-04-24 06:28:36--  https://s3.amazonaws.com/ava-dataset/trainval/QMwT7DFA5O4.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.65.83
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.65.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 438965250 (419M) [application/x-www-form-urlencoded]
+Saving to: ‘QMwT7DFA5O4.mkv’
+
+QMwT7DFA5O4.mkv     100%[===================>] 418.63M  1.01MB/s    in 7m 41s  
+
+2018-04-24 06:36:19 (929 KB/s) - ‘QMwT7DFA5O4.mkv’ saved [438965250/438965250]
+
+--2018-04-24 06:36:19--  https://s3.amazonaws.com/ava-dataset/trainval/QotkBTEePI8.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.17.147
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.17.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 603130912 (575M) [application/x-www-form-urlencoded]
+Saving to: ‘QotkBTEePI8.mkv’
+
+QotkBTEePI8.mkv     100%[===================>] 575.19M  1.02MB/s    in 11m 30s 
+
+2018-04-24 06:47:50 (854 KB/s) - ‘QotkBTEePI8.mkv’ saved [603130912/603130912]
+
+--2018-04-24 06:47:50--  https://s3.amazonaws.com/ava-dataset/trainval/qpoWHELxL-4.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.129.141
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.129.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 561245760 (535M) [video/mp4]
+Saving to: ‘qpoWHELxL-4.mp4’
+
+qpoWHELxL-4.mp4     100%[===================>] 535.25M  1.14MB/s    in 10m 58s 
+
+2018-04-24 06:58:49 (833 KB/s) - ‘qpoWHELxL-4.mp4’ saved [561245760/561245760]
+
+--2018-04-24 06:58:49--  https://s3.amazonaws.com/ava-dataset/trainval/qrkff49p4E4.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.226.83
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.226.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 352943421 (337M) [video/mp4]
+Saving to: ‘qrkff49p4E4.mp4’
+
+qrkff49p4E4.mp4     100%[===================>] 336.59M   419KB/s    in 6m 57s  
+
+2018-04-24 07:05:48 (826 KB/s) - ‘qrkff49p4E4.mp4’ saved [352943421/352943421]
+
+--2018-04-24 07:05:48--  https://s3.amazonaws.com/ava-dataset/trainval/qsTqtWVVSLM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 07:05:48--  https://s3.amazonaws.com/ava-dataset/trainval/QTmwhrVal1g.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.93
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.93|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 921596397 (879M) [application/x-www-form-urlencoded]
+Saving to: ‘QTmwhrVal1g.mkv’
+
+QTmwhrVal1g.mkv     100%[===================>] 878.90M  1.32MB/s    in 17m 7s  
+
+2018-04-24 07:22:56 (876 KB/s) - ‘QTmwhrVal1g.mkv’ saved [921596397/921596397]
+
+--2018-04-24 07:22:56--  https://s3.amazonaws.com/ava-dataset/trainval/qx2vAO5ofmo.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 07:22:56--  https://s3.amazonaws.com/ava-dataset/trainval/r2llOyS-BmE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.86.45
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.86.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 641895716 (612M) [application/x-www-form-urlencoded]
+Saving to: ‘r2llOyS-BmE.mkv’
+
+r2llOyS-BmE.mkv     100%[===================>] 612.16M   453KB/s    in 13m 10s 
+
+2018-04-24 07:36:07 (794 KB/s) - ‘r2llOyS-BmE.mkv’ saved [641895716/641895716]
+
+--2018-04-24 07:36:07--  https://s3.amazonaws.com/ava-dataset/trainval/rCb9-U4TArw.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 07:36:07--  https://s3.amazonaws.com/ava-dataset/trainval/rFgb2ECMcrY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.128.149
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.128.149|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 524338700 (500M) [application/x-www-form-urlencoded]
+Saving to: ‘rFgb2ECMcrY.mkv’
+
+rFgb2ECMcrY.mkv     100%[===================>] 500.05M   474KB/s    in 8m 52s  
+
+2018-04-24 07:45:00 (962 KB/s) - ‘rFgb2ECMcrY.mkv’ saved [524338700/524338700]
+
+--2018-04-24 07:45:00--  https://s3.amazonaws.com/ava-dataset/trainval/ri4P2enZT9o.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.229.53
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.229.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 599048864 (571M) [application/x-www-form-urlencoded]
+Saving to: ‘ri4P2enZT9o.mkv’
+
+ri4P2enZT9o.mkv     100%[===================>] 571.30M   994KB/s    in 10m 45s 
+
+2018-04-24 07:55:46 (907 KB/s) - ‘ri4P2enZT9o.mkv’ saved [599048864/599048864]
+
+--2018-04-24 07:55:46--  https://s3.amazonaws.com/ava-dataset/trainval/Riu4ZKk4YdQ.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.69
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363525811 (347M) [video/webm]
+Saving to: ‘Riu4ZKk4YdQ.webm’
+
+Riu4ZKk4YdQ.webm    100%[===================>] 346.68M   848KB/s    in 7m 5s   
+
+2018-04-24 08:02:52 (836 KB/s) - ‘Riu4ZKk4YdQ.webm’ saved [363525811/363525811]
+
+--2018-04-24 08:02:52--  https://s3.amazonaws.com/ava-dataset/trainval/rJKeqfTlAeY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.80.35
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.80.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1499835604 (1.4G) [application/x-www-form-urlencoded]
+Saving to: ‘rJKeqfTlAeY.mkv’
+
+rJKeqfTlAeY.mkv     100%[===================>]   1.40G  1000KB/s    in 26m 21s 
+
+2018-04-24 08:29:14 (927 KB/s) - ‘rJKeqfTlAeY.mkv’ saved [1499835604/1499835604]
+
+--2018-04-24 08:29:14--  https://s3.amazonaws.com/ava-dataset/trainval/rk8Xm0EAOWs.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.41.50
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.41.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 488662823 (466M) [application/x-www-form-urlencoded]
+Saving to: ‘rk8Xm0EAOWs.mkv’
+
+rk8Xm0EAOWs.mkv     100%[===================>] 466.02M  1.05MB/s    in 8m 20s  
+
+2018-04-24 08:37:36 (954 KB/s) - ‘rk8Xm0EAOWs.mkv’ saved [488662823/488662823]
+
+--2018-04-24 08:37:36--  https://s3.amazonaws.com/ava-dataset/trainval/Rm518TUhbRY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.85.221
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.85.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 410596257 (392M) [application/x-www-form-urlencoded]
+Saving to: ‘Rm518TUhbRY.mkv’
+
+Rm518TUhbRY.mkv     100%[===================>] 391.57M  1.91MB/s    in 5m 44s  
+
+2018-04-24 08:43:21 (1.14 MB/s) - ‘Rm518TUhbRY.mkv’ saved [410596257/410596257]
+
+--2018-04-24 08:43:21--  https://s3.amazonaws.com/ava-dataset/trainval/rUYsoIIE37A.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 08:43:21--  https://s3.amazonaws.com/ava-dataset/trainval/RvdxDMfMtiA.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.115.50
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.115.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 482376326 (460M) [video/mp4]
+Saving to: ‘RvdxDMfMtiA.mp4’
+
+RvdxDMfMtiA.mp4     100%[===================>] 460.03M  1.12MB/s    in 8m 8s   
+
+2018-04-24 08:51:31 (965 KB/s) - ‘RvdxDMfMtiA.mp4’ saved [482376326/482376326]
+
+--2018-04-24 08:51:31--  https://s3.amazonaws.com/ava-dataset/trainval/rXFlJbXyZyc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 08:51:31--  https://s3.amazonaws.com/ava-dataset/trainval/S0tkhGJjwLA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.102.53
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.102.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263831831 (252M) [application/x-www-form-urlencoded]
+Saving to: ‘S0tkhGJjwLA.mkv’
+
+S0tkhGJjwLA.mkv     100%[===================>] 251.61M   597KB/s    in 5m 27s  
+
+2018-04-24 08:56:59 (788 KB/s) - ‘S0tkhGJjwLA.mkv’ saved [263831831/263831831]
+
+--2018-04-24 08:56:59--  https://s3.amazonaws.com/ava-dataset/trainval/sADELCyj10I.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.141
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 545426228 (520M) [application/x-www-form-urlencoded]
+Saving to: ‘sADELCyj10I.mkv’
+
+sADELCyj10I.mkv     100%[===================>] 520.16M  1.45MB/s    in 12m 38s 
+
+2018-04-24 09:09:38 (703 KB/s) - ‘sADELCyj10I.mkv’ saved [545426228/545426228]
+
+--2018-04-24 09:09:38--  https://s3.amazonaws.com/ava-dataset/trainval/SCh-ZImnyyk.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.132.205
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.132.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 537415217 (513M) [video/mp4]
+Saving to: ‘SCh-ZImnyyk.mp4’
+
+SCh-ZImnyyk.mp4     100%[===================>] 512.52M   515KB/s    in 11m 8s  
+
+2018-04-24 09:20:48 (786 KB/s) - ‘SCh-ZImnyyk.mp4’ saved [537415217/537415217]
+
+--2018-04-24 09:20:48--  https://s3.amazonaws.com/ava-dataset/trainval/SHBMiL5f_3Q.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-24 09:20:48--  https://s3.amazonaws.com/ava-dataset/trainval/skiZueh4lfY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.160.5
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.160.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 731429685 (698M) [application/x-www-form-urlencoded]
+Saving to: ‘skiZueh4lfY.mkv’
+
+skiZueh4lfY.mkv     100%[===================>] 697.54M  1.16MB/s    in 18m 2s  
+
+2018-04-24 09:38:51 (660 KB/s) - ‘skiZueh4lfY.mkv’ saved [731429685/731429685]
+
+--2018-04-24 09:38:51--  https://s3.amazonaws.com/ava-dataset/trainval/sNQJfYvhcPk.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.228.171
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.228.171|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246900488 (235M) [video/mp4]
+Saving to: ‘sNQJfYvhcPk.mp4’
+
+sNQJfYvhcPk.mp4     100%[===================>] 235.46M  1.67MB/s    in 5m 49s  
+
+2018-04-24 09:44:41 (691 KB/s) - ‘sNQJfYvhcPk.mp4’ saved [246900488/246900488]
+
+--2018-04-24 09:44:41--  https://s3.amazonaws.com/ava-dataset/trainval/sUVhd0YTKgw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.40.170
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.40.170|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3713932536 (3.5G) [application/x-www-form-urlencoded]
+Saving to: ‘sUVhd0YTKgw.mkv’
+
+sUVhd0YTKgw.mkv     100%[===================>]   3.46G   123KB/s    in 95m 21s 
+
+2018-04-24 11:20:03 (634 KB/s) - ‘sUVhd0YTKgw.mkv’ saved [3713932536/3713932536]
+
+--2018-04-24 11:20:03--  https://s3.amazonaws.com/ava-dataset/trainval/t0V4drbYDnc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.40.194
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.40.194|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 516795216 (493M) [application/x-www-form-urlencoded]
+Saving to: ‘t0V4drbYDnc.mkv’
+
+t0V4drbYDnc.mkv     100%[===================>] 492.85M   301KB/s    in 25m 11s 
+
+2018-04-24 11:45:16 (334 KB/s) - ‘t0V4drbYDnc.mkv’ saved [516795216/516795216]
+
+--2018-04-24 11:45:16--  https://s3.amazonaws.com/ava-dataset/trainval/t1LXrJOvPDg.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.164.173
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.164.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1717509392 (1.6G) [application/x-www-form-urlencoded]
+Saving to: ‘t1LXrJOvPDg.mkv’
+
+t1LXrJOvPDg.mkv     100%[===================>]   1.60G   410KB/s    in 85m 15s 
+
+2018-04-24 13:10:32 (328 KB/s) - ‘t1LXrJOvPDg.mkv’ saved [1717509392/1717509392]
+
+--2018-04-24 13:10:32--  https://s3.amazonaws.com/ava-dataset/trainval/T26G6_AjJZ4.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.85.37
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.85.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 532528066 (508M) [application/x-www-form-urlencoded]
+Saving to: ‘T26G6_AjJZ4.mkv’
+
+T26G6_AjJZ4.mkv     100%[===================>] 507.86M   183KB/s    in 52m 9s  
+
+2018-04-24 14:02:42 (166 KB/s) - ‘T26G6_AjJZ4.mkv’ saved [532528066/532528066]
+
+--2018-04-24 14:02:42--  https://s3.amazonaws.com/ava-dataset/trainval/TcB0IFBwk-k.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.21.109
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.21.109|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 471101295 (449M) [application/x-www-form-urlencoded]
+Saving to: ‘TcB0IFBwk-k.mkv’
+
+TcB0IFBwk-k.mkv     100%[===================>] 449.28M  59.7KB/s    in 91m 2s  
+
+2018-04-24 15:33:45 (84.2 KB/s) - ‘TcB0IFBwk-k.mkv’ saved [471101295/471101295]
+
+--2018-04-24 15:33:45--  https://s3.amazonaws.com/ava-dataset/trainval/TCmNvNLRWrc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.114.76
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.114.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 755805150 (721M) [application/x-www-form-urlencoded]
+Saving to: ‘TCmNvNLRWrc.mkv’
+
+TCmNvNLRWrc.mkv      50%[=========>          ] 365.03M  19.0KB/s    in 71m 9s  
+
+2018-04-24 16:49:57 (87.6 KB/s) - Read error at byte 382766700/755805150 (Connection reset by peer). Retrying.
+
+--2018-04-24 16:49:58--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/TCmNvNLRWrc.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.114.76|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 755805150 (721M), 373038450 (356M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘TCmNvNLRWrc.mkv’
+
+TCmNvNLRWrc.mkv     100%[++++++++++=========>] 720.79M   210KB/s    in 60m 41s 
+
+2018-04-24 17:50:40 (100 KB/s) - ‘TCmNvNLRWrc.mkv’ saved [755805150/755805150]
+
+--2018-04-24 17:50:40--  https://s3.amazonaws.com/ava-dataset/trainval/TcT4TxCxn_Q.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.226.139
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.226.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289424232 (276M) [application/x-www-form-urlencoded]
+Saving to: ‘TcT4TxCxn_Q.mkv’
+
+TcT4TxCxn_Q.mkv     100%[===================>] 276.02M   103KB/s    in 27m 41s 
+
+2018-04-24 18:18:23 (170 KB/s) - ‘TcT4TxCxn_Q.mkv’ saved [289424232/289424232]
+
+--2018-04-24 18:18:23--  https://s3.amazonaws.com/ava-dataset/trainval/tEoJW9ycmSY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.128.157
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.128.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 413501058 (394M) [application/x-www-form-urlencoded]
+Saving to: ‘tEoJW9ycmSY.mkv’
+
+tEoJW9ycmSY.mkv     100%[===================>] 394.34M   445KB/s    in 79m 41s 
+
+2018-04-24 19:38:05 (84.5 KB/s) - ‘tEoJW9ycmSY.mkv’ saved [413501058/413501058]
+
+--2018-04-24 19:38:05--  https://s3.amazonaws.com/ava-dataset/trainval/TEQ9sAj-DPo.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.97.197
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1226061827 (1.1G) [video/mp4]
+Saving to: ‘TEQ9sAj-DPo.mp4’
+
+TEQ9sAj-DPo.mp4      15%[==>                 ] 176.87M  40.0KB/s    in 20m 45s 
+
+2018-04-24 20:03:54 (145 KB/s) - Read error at byte 185464466/1226061827 (Connection reset by peer). Retrying.
+
+--2018-04-24 20:03:55--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/TEQ9sAj-DPo.mp4
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.197|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 1226061827 (1.1G), 1040597361 (992M) remaining [video/mp4]
+Saving to: ‘TEQ9sAj-DPo.mp4’
+
+TEQ9sAj-DPo.mp4      27%[+++=>               ] 318.80M  27.8KB/s    in 14m 29s 
+
+2018-04-24 20:23:28 (167 KB/s) - Read error at byte 334285025/1226061827 (Connection reset by peer). Retrying.
+
+--2018-04-24 20:23:30--  (try: 3)  https://s3.amazonaws.com/ava-dataset/trainval/TEQ9sAj-DPo.mp4
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.97.197|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 1226061827 (1.1G), 891776802 (850M) remaining [video/mp4]
+Saving to: ‘TEQ9sAj-DPo.mp4’
+
+TEQ9sAj-DPo.mp4     100%[+++++==============>]   1.14G   142KB/s    in 68m 5s  
+
+2018-04-24 21:31:36 (213 KB/s) - ‘TEQ9sAj-DPo.mp4’ saved [1226061827/1226061827]
+
+--2018-04-24 21:31:36--  https://s3.amazonaws.com/ava-dataset/trainval/T-Fc9ctuNVI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.96.85
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.96.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 463488837 (442M) [application/x-www-form-urlencoded]
+Saving to: ‘T-Fc9ctuNVI.mkv’
+
+T-Fc9ctuNVI.mkv     100%[===================>] 442.02M   162KB/s    in 61m 8s  
+
+2018-04-24 22:32:46 (123 KB/s) - ‘T-Fc9ctuNVI.mkv’ saved [463488837/463488837]
+
+--2018-04-24 22:32:46--  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.192.11
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271100039 (259M) [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv       2%[                    ]   7.47M  11.3KB/s    in 4m 39s  
+
+2018-04-24 22:42:35 (27.4 KB/s) - Read error at byte 7833196/271100039 (Connection reset by peer). Retrying.
+
+--2018-04-24 22:42:36--  (try: 2)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 263266843 (251M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv       4%[                    ]  10.96M  16.3KB/s    in 2m 8s   
+
+2018-04-24 22:49:45 (28.0 KB/s) - Read error at byte 11488409/271100039 (Connection reset by peer). Retrying.
+
+--2018-04-24 22:49:47--  (try: 3)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 259611630 (248M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv       9%[>                   ]  23.41M  7.53KB/s    in 7m 57s  
+
+2018-04-24 23:12:46 (26.7 KB/s) - Read error at byte 24542893/271100039 (Success). Retrying.
+
+--2018-04-24 23:12:49--  (try: 4)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 246557146 (235M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv      12%[+>                  ]  33.18M  6.34KB/s    in 8m 40s  
+
+2018-04-24 23:26:35 (19.3 KB/s) - Read error at byte 34795737/271100039 (Connection reset by peer). Retrying.
+
+--2018-04-24 23:26:39--  (try: 5)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 236304302 (225M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv      16%[++>                 ]  41.59M  17.2KB/s    in 5m 27s  
+
+2018-04-24 23:37:12 (26.3 KB/s) - Read error at byte 43612717/271100039 (Connection reset by peer). Retrying.
+
+--2018-04-24 23:37:17--  (try: 6)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 227487322 (217M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv      18%[+++                 ]  48.85M  4.69KB/s    in 4m 58s  
+
+2018-04-24 23:57:16 (24.9 KB/s) - Read error at byte 51219545/271100039 (Success). Retrying.
+
+--2018-04-24 23:57:22--  (try: 7)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 219880494 (210M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv      20%[+++>                ]  54.19M   595 B/s    in 10m 50s 
+
+2018-04-25 00:13:14 (8.42 KB/s) - Read error at byte 56824453/271100039 (Connection reset by peer). Retrying.
+
+--2018-04-25 00:13:21--  (try: 8)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 214275586 (204M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv      21%[++++                ]  54.87M  13.4KB/s    in 35s     
+
+2018-04-25 00:18:47 (19.7 KB/s) - Read error at byte 57537713/271100039 (Connection reset by peer). Retrying.
+
+--2018-04-25 00:18:55--  (try: 9)  https://s3.amazonaws.com/ava-dataset/trainval/tghXjom3120.mkv
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.192.11|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 271100039 (259M), 213562326 (204M) remaining [application/x-www-form-urlencoded]
+Saving to: ‘tghXjom3120.mkv’
+
+tghXjom3120.mkv     100%[++++===============>] 258.54M   233KB/s    in 68m 14s 
+
+2018-04-25 01:27:11 (50.9 KB/s) - ‘tghXjom3120.mkv’ saved [271100039/271100039]
+
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/tjqCzVjojCo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/TM5MPJIq1Is.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/tNpZtigMc4g.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/tt0t_a1EDCE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/TzaVHtLXOzY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/u1ltv6r14KQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/UgZFdrNT6W0.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/UIy730JrFIc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/uNT6HrrnqPU.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/UOfuzrwkclM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/UOyyTUX5Vo4.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/uPJPNPbWMFk.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/uq_HBsvP548.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/UrsCy6qIGoo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/UsLnxI_zGpY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/uwW0ejeosmk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/U_WzY2k8IBM.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/uzPI7FcF79U.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/v0L-WkMO3s4.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/vBbjA4tWCPg.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/vfjywN5CN0Y.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/Vmef_8MY46w.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/VMNmRlhFT-o.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/VRlpH1MbWUw.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/VsYPP2I0aUQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/wEAeql4z1O0.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/wfEOx36N4jA.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/WKqbLbU68wU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/WlgxRNCHQzw.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/wogRuPNBUi8.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/wONG7Vh87B4.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/WSPvfxtqisg.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/WVde9pyaHg4.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/X5wWhZ2r9kc.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/x-6CtPWVi6E.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/xeGWXqSvC-8.webm
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/XF87VL5T0aA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/XglAvHaEtHY.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/xJmRNZVDDCY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/xmqSaQPzL1E.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/xO4ABy2iOQA.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/xp67EC-Hvwk.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/XpGRS72ghag.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/-XpUuIgyUHE.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/XV_FF3WC7kA.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/y7ncweROe9U.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/yMtGmGa8KZ0.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/yn9WN9lsHRE.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/yo-Kg2YxlZs.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/yqImJuC5UzI.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:11--  https://s3.amazonaws.com/ava-dataset/trainval/Ytga8ciKWJc.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/yvgCGJ6vfkY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/YYWdB7h1INo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/Z1YV6wB037M.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/z3kgrh0L_80.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/_-Z6wFjXtGQ.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/zC5Fh2tTS1U.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/-ZFgsrolSxo.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/z-fsLpGHq6o.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/zG7mx8KiavA.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/zlVkeKC6Ha8.mp4
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/ZosVdkY76FU.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/zR725veL-DI.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2018-04-25 01:27:12--  https://s3.amazonaws.com/ava-dataset/trainval/ZxQn8HVmXsY.mkv
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+

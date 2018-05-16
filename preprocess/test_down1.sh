@@ -1,0 +1,10 @@
+wget https://s3.amazonaws.com/ava-dataset/test/xYUx0drhUNk.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/xauSNGP5yA0.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/xdDTWBRWPLQ.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/y4lBI_gFnqI.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/y5o8w0FRj98.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/yQdi5Ke4dNY.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/yRRZkwtJCwU.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/z5lg_3abT-s.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/zm78XnWN7MU.mkv
+wget https://s3.amazonaws.com/ava-dataset/test/zvxnOrzTg0M.mp4
